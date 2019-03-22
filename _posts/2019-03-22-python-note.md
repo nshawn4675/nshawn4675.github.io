@@ -31,8 +31,8 @@ def function_name(arg1, arg2, arg3 = default_value):
 def myfunc(n):
 	return lambda a : a * n
 
-mydoubler = myfunc(2)	# 將2傳給a, double效果
-mytripler = myfunc(3)	# 將3傳給a, triple效果
+mydoubler = myfunc(2)	# 將 2 傳給 a , double效果
+mytripler = myfunc(3)	# 將 3 傳給 a , triple效果
 
 print(mydoubler(11))	# 會印出 22
 print(mytripler(11))	# 會印出 33
@@ -41,47 +41,47 @@ print(mytripler(11))	# 會印出 33
 <h3><b>常用的Functions</b></h3>
 {% highlight python %}
 # Type
-type(value)		# 回傳目前value所對應的type
+type(value)		# 回傳目前 value 所對應的 type
 
 # Ascii
-chr(ascii)		# 將ascii轉為相對應的char
-ord(char)		# 將char轉為相對應的ascii
+chr(ascii)		# 將 ascii 轉為相對應的 char
+ord(char)		# 將 char 轉為相對應的 ascii
 
 # Array (List)
 array = [value1, something2, ...]	#索引值由 0 起算
 len(array)		# 計算有幾個元素
-array.append(value)	# 將value附加入array尾端
-array.insert(idx, value)# 將value插入特定位置
-array.remove(value)	# 將與value相符的元素刪掉
+array.append(value)	# 將 value 附加入 array 尾端
+array.insert(idx, value)# 將 value 插入特定位置
+array.remove(value)	# 將與 value 相符的元素刪掉
 array.pop()		# 將最後一個元素刪掉且回傳
-array.clear()		# 清空array
-array.index(value)	# 回傳符合value的索引值, 從頭開始找的第一個
+array.clear()		# 清空 array
+array.index(value)	# 回傳符合 value 的索引值, 從頭開始找的第一個
 max(array)		# 回傳其中的最大值
 range(value)		# 回傳一個 0 ~ value-1 的陣列
 # tuple是無法被修改的
 
 # set
 a_set = {value1, something2, ...}
-a_set.add(value)	# 將value加入set中
-a_set.update([value1, value2, ...])	# 將數個值加入set中
+a_set.add(value)	# 將 value 加入 set 中
+a_set.update([value1, value2, ...])	# 將數個值加入 set 中
 
 # dictionary
 a_dict = {key1:value1, key2:value2, ...}
-x = a_dict[key1]	# 抓key1的value
-x = a_dict.get(key1)	# 抓key1的value
-a_dict[key1] = value5 	# 改key1的value為value5
-a_dict.values()		# 以array回傳所有的value
-a_dict.items()		# 以array回傳所有的item
-a_dict[new1] = new_val	# 新增key & value
+x = a_dict[key1]	# 抓 key1 的 value
+x = a_dict.get(key1)	# 抓 key1 的 value
+a_dict[key1] = value5 	# 改 key1 的 value 為 value5
+a_dict.values()		# 以 array 回傳所有的 value
+a_dict.items()		# 以 array 回傳所有的 item
+a_dict[new1] = new_val	# 新增 key & value
 # 若要修改key的value，也是用相同方法
-a_dict.pop(key)		# 將key相符的item刪掉
-a_dict.popitem()	# 將最後一個item刪掉
+a_dict.pop(key)		# 將 key 相符的 item 刪掉
+a_dict.popitem()	# 將最後一個 item 刪掉
 
 # str
-str.lower()		# 將str全轉為小寫
-str.strip()		# 將str頭尾多餘的空白刪掉
-str.replace(chr1, chr2)	# 將str中的chr1以chr2代替
-str.split(chr)		# 以chr為基準, 切分為數個子字串
+str.lower()		# 將 str 全轉為小寫
+str.strip()		# 將 str 頭尾多餘的空白刪掉
+str.replace(chr1, chr2)	# 將 str 中的 chr1 以 chr2 代替
+str.split(chr)		# 以 chr 為基準, 切分為數個子字串
 
 # char
 char.isupper()		# 是否為「大寫」
@@ -91,11 +91,19 @@ char.isdigit()		# 是否為「數字」
 
 <h3><b>運算相關</b></h3>
 {% highlight python %}
-x**y	# x的y次方
-a in b	# a是否存在b中
+# 三元運算子
+i = j if condition else k
+# 相當於
+if condition:
+	i = j
+else:
+	i = k
+
+x**y	# x 的 y 次方
+a in b	# a 是否存在 b 中
 """
-Python沒有++、--，只能+=1、-=1
-Python沒有||、&&，只能or、and
+Python沒有++、--，只能 +=1 、 -=1
+Python沒有||、&&，只能 or 、 and
 (多行註解)
 """
 {% endhighlight %}
@@ -103,7 +111,7 @@ Python沒有||、&&，只能or、and
 <h3><b>flow control相關</b></h3>
 {% highlight python %}
 if condition1:
-	pass		# pass有留白的效果
+	pass		# pass 有留白的效果
 elif condition2:
 	pass
 else:
@@ -112,7 +120,7 @@ else:
 for i in range(10):	# 從 0 ~ 9
 	pass
 
-for i in "apple":	#i依序為：a, p, p, l, e
+for i in "apple":	# i 依序為：a, p, p, l, e
 	pass
 
 while condition:
@@ -124,7 +132,7 @@ while condition:
 {% highlight python %}
 class Person:
 	def __init__(self, name, age):
-		# self指的是class它自己，可以用其它名字代替，但一定要是第一個arg
+		# self 指的是 class 它自己，可以用其它名字代替，但一定要是第一個 arg
 		self.name = name
 		self.age = age
 
@@ -163,7 +171,7 @@ finally:
 
 <h3><b>Module相關</b></h3>
 {% highlight python %}
-# 相當於library，有一mymodule.py內容如下
+# 相當於 library , 若有一 mymodule.py 內容如下
 def greeting(name):
 	print("Hello, " + name)
 
@@ -187,7 +195,7 @@ a = mx.person1["age"]
 print(a)	# 印出 36
 {% endhighlight %}
 {% highlight python %}
-# 若只想引入module中的某部份
+# 若只想引入 module 其中的某部份
 from mymodule import person1
 
 print(person1["age"])	# 印出 36
