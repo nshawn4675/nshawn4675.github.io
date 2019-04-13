@@ -21,3 +21,54 @@ permalink: /about/
 ．為了減少排斥感，持續接觸英文。<br>
 ．為了能在資訊爆炸的時代中萃取出所需資訊，學習數據分析相關技術。<br>
 ．為了更有效的編程&管理，學習抽象化的架構設計。
+
+---
+<div name="title" align="center">
+	<font color="#0070c0" size="6">
+		Shawn Yang
+	</font><br/>
+	No. 9, Aly. 11, Ln. 127, Dahan St., Shengang Dist., Taichung City 429, Taiwan (R.O.C.)<br/>
+	0910758145<br/>
+	nshawn4675@gmail.com
+</div>
+<br/>
+<div name="profile">
+	<div align="center">
+		<font color="#0070c0" size="6">
+			Professional Profile
+		</font>
+	</div>
+	● Honors student of National Chin-Yi University of Technology’s BS in CSIE program.<br/>
+	● Consistently commended by professors for programming abilities, grasp of multiple technologies and attention to detail.<br/>
+	● Strong knowledge of object-oriented programming and application development tools using C, C++ and Python.<br/>
+	● Known as a self-starter, team player and multitasker--strive to consistently exceed expectations.
+</div>
+<br/>
+<div name="work_experience">
+	<div align="center">
+		<font color="#0070c0" size="6">
+			Work Experience
+		</font>
+	</div>
+	<font size="5">Software Engineer - Topview corp.</font><br/>
+	10F., No. 375, Wuquan Rd., North Dist., Taichung City 404, Taiwan (R.O.C.)<br/>
+	3 / 2017 ~ 3 / 2018<br/>
+	● Developed IP-Camera software with C/C++ on embedded Linux.<br/>
+    ● Adapted ODM customization.<br/>
+    ● Integrated Network Video Recorders (NVR).<br/>
+    ● Adjusted Image quality.<br/>
+	<font size="5">QA / QC - XIANG SHANG GAMES</font><br/>
+	No. 360, Jianxing Rd., North Dist., Taichung City 404, Taiwan (R.O.C.) <br/>
+	8 / 2014 ~ 6 / 2015<br/>
+	● Tested software function.
+</div>
+<br/>
+<div name="education">
+	<div align="center">
+		<font color="#0070c0" size="6">
+			Education
+		</font>
+	</div>
+	<font size="5">Bachelor - National Chin-Yi University of Technology</font><br/>
+	2011 / 9 ~ 2015 / 6
+</div>
