@@ -27,9 +27,15 @@ def function_name(arg1, arg2, arg3 = default_value):
 	# 做function該做的事
 	return (arg1 + arg2)
 
-# lambda，神奇的小玩意兒，可數個arg，但只能做一行的事
-def myfunc(n):
-	return lambda a : a * n
+# lambda
+lambda arg1, arg2 : return_value
+
+# map, 批次使用function
+def add(a, b):
+	return a+b
+list(map(add, [1,2,3], [4,5,6])) 
+# 使用add數次，傳入參數個別為1, 4 ; 2, 5 ; ,3, 6
+# 得到一個map object, 將其轉成list會得到[5, 7, 9]
 
 mydoubler = myfunc(2)	# 將 2 傳給 a , double效果
 mytripler = myfunc(3)	# 將 3 傳給 a , triple效果
