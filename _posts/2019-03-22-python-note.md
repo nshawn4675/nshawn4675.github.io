@@ -4,8 +4,8 @@ title:  "python note"
 date:   2019-03-22 01:51:31 +0800
 categories: jekyll update
 ---
-<h3><b>一切都從這裡開始</b></h3>
-{% highlight python %}
+## **一切都從這裡開始**
+```python
 if __name__ == '__main__':
 	# 開始你想做的事, python以縮排當作'{}', 句尾不用加';'
 	print("Hello Python")
@@ -18,10 +18,10 @@ if __name__ == '__main__':
 	z = float("2")	# z = 2.0
 	a = str(123)	# a = "123"
 
-{% endhighlight %}
+```
 
-<h3><b>Function相關</b></h3>
-{% highlight python %}
+## **Function相關**
+```python
 # 宣告function
 def function_name(arg1, arg2, arg3 = default_value):
 	# 做function該做的事
@@ -37,15 +37,18 @@ list(map(add, [1,2,3], [4,5,6]))
 # 使用add數次，傳入參數個別為1, 4 ; 2, 5 ; ,3, 6
 # 得到一個map object, 將其轉成list會得到[5, 7, 9]
 
-mydoubler = myfunc(2)	# 將 2 傳給 a , double效果
-mytripler = myfunc(3)	# 將 3 傳給 a , triple效果
+def myfunc(n):
+  return lambda a : a * n
+
+mydoubler = myfunc(2)	# 將 2 傳給 a , 會得到double的效果
+mytripler = myfunc(3)	# 將 3 傳給 a , 會得到triple的效果
 
 print(mydoubler(11))	# 會印出 22
 print(mytripler(11))	# 會印出 33
-{% endhighlight %}
+```
 
-<h3><b>常用的Functions</b></h3>
-{% highlight python %}
+## **常用的Functions**
+```python
 # Type
 type(value)		# 回傳目前 value 所對應的 type
 
@@ -93,10 +96,10 @@ str.split(chr)		# 以 chr 為基準, 切分為數個子字串
 char.isupper()		# 是否為「大寫」
 char.islower()		# 是否為「小寫」
 char.isdigit()		# 是否為「數字」
-{% endhighlight %}
+```
 
-<h3><b>運算相關</b></h3>
-{% highlight python %}
+## **運算相關**
+```python
 # 三元運算子
 i = j if condition else k
 # 相當於
@@ -112,10 +115,10 @@ Python沒有++、--，只能 +=1 、 -=1
 Python沒有||、&&，只能 or 、 and
 (多行註解)
 """
-{% endhighlight %}
+```
 
-<h3><b>flow control相關</b></h3>
-{% highlight python %}
+## **flow control相關**
+```python
 if condition1:
 	pass		# pass 有留白的效果
 elif condition2:
@@ -132,10 +135,10 @@ for i in "apple":	# i 依序為：a, p, p, l, e
 while condition:
 	pass
 
-{% endhighlight %}
+```
 
-<h3><b>Class相關</b></h3>
-{% highlight python %}
+## **Class相關**
+```python
 class Person:
 	def __init__(self, name, age):
 		# self 指的是 class 它自己，可以用其它名字代替，但一定要是第一個 arg
@@ -154,10 +157,10 @@ class Student(Person):
 
 x = Student("Mike", 18)
 x.myfunc()
-{% endhighlight %}
+```
 
-<h3><b>Try Except相關</b></h3>
-{% highlight python %}
+## **Try Except相關**
+```python
 try:
 	# 要做的事情
 	print(x)
@@ -173,10 +176,10 @@ else:
 finally:
 	# 不管有無意外發生，最後一定會做的事
 	print("The 'try except' is finished")
-{% endhighlight %}
+```
 
-<h3><b>Module相關</b></h3>
-{% highlight python %}
+## **Module相關**
+```python
 # 相當於 library , 若有一 mymodule.py 內容如下
 def greeting(name):
 	print("Hello, " + name)
@@ -186,23 +189,23 @@ person1 = {
 	"age": 36,
 	"country": "Norway"
 }
-{% endhighlight %}
-{% highlight python %}
+```
+```python
 # 則可以引入它來使用
 import mymodule
 
 mymodule.greeting("Jonathan")
-{% endhighlight %}
-{% highlight python %}
+```
+```python
 # 也可引入後，換個名字使用
 import mymodule as mx
 
 a = mx.person1["age"]
 print(a)	# 印出 36
-{% endhighlight %}
-{% highlight python %}
+```
+```python
 # 若只想引入 module 其中的某部份
 from mymodule import person1
 
 print(person1["age"])	# 印出 36
-{% endhighlight %}
+```
