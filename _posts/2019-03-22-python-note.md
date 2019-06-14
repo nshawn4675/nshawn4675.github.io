@@ -47,6 +47,26 @@ print(mydoubler(11))	# 會印出 22
 print(mytripler(11))	# 會印出 33
 ```
 
+## **Decorator**
+```python
+# Decorator用以在原function前後做額外事情，包裝、點綴function
+
+def deco_func(func): # 以欲點綴的func為arg帶入
+	def wrapper(*arg): # *arg from origin func
+		# do extra things
+		res = func(*arg) # origin func return
+		# do extra things
+		return res
+	return wrapper
+
+@deco_func
+def function(arg):
+	# do something
+	return res
+
+function(arg)
+```
+
 ## **常用的Functions**
 ```python
 # Type
