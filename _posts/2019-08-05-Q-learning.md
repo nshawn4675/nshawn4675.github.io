@@ -47,3 +47,5 @@ Q(s,a) means the value of the action(a) at a certain state(s).
 
 ![](http://latex.codecogs.com/gif.latex?Q(s,a)=R(s,a)+\gamma \underset{s'}{\sum }(P(s,a,s')\underset{a'}{max}Q(s',a')))  
 
+## Temporal Difference (TD)
+![](http://latex.codecogs.com/gif.latex?\begin{align*}Before&=Q_{t-1}(s,a)\\After&=R(s,a)+\gamma\underset{a'}{max}Q(s',a')\\TD(a,s)&=After-Before\\&=R(s,a)+\gamma\underset{a'}{max}Q(s',a')-Q_{t-1}(s,a)\\Q_t(s,a)&=Q_{t-1}(s,a)+\alpha TD_t(a,s)\\&=Q_{t-1}(s,a)+\alpha(R(s,a)+\gamma\underset{a'}{max}Q(s',a')-Q_{t-1}(s,a))\end{align*})  
