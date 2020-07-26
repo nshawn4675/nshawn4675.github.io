@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LeetCode July Challange]Day24-Find Minimum in Rotated Sorted Array II"
+title:  "[LeetCode July Challange]Day25-Find Minimum in Rotated Sorted Array II"
 date:   2020-07-25 00:00:00 +0800
 categories: jekyll update
 tags: LeetCode
