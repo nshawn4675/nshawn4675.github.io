@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Combination Sum"
+title:  "Maximum Distance in Arrays"
 date:   2020-10-02 00:00:00 +0800
 categories: jekyll update
 tags: [LeetCode, Easy, Array, Hash Table, Yahoo]
 ---
-Given <font color="red">m</font> arrays, and each array is sorted in ascending order. Now you can pick up two integers from two different arrays (each array picks one) and calculate the distance. We define the distance between two integers <font color="red">a</font> and <font color="red">b</font> to be their absolute difference <font color="red">\|a-b\|</font>. Your task is to find the maximum distance.  
+Given <font color="red">m</font> arrays, and each array is sorted in ascending order. Now you can pick up two integers from two different arrays (each array picks one) and calculate the distance. We define the distance between two integers <font color="red">a</font> and <font color="red">b</font> to be their absolute difference <font color="red">|a-b|</font>. Your task is to find the maximum distance.  
 
 # Example 1:  
 	Input: 
