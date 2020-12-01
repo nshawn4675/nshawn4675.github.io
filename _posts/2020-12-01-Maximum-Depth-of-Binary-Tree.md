@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "[LeetCode December Challange] Day 1 - Maximum Depth of Binary Tree"
+date:   2020-12-01 00:00:00 +0800
+categories: jekyll update
+tags: [LeetCode, Easy, Tree, Depth-first Search, Recursion, Amazon, Facebook, Adobe, Microsoft]
+---
+Given the <font color="red">root</font> of a binary tree, return *its maximum depth*.  
+
+A binary tree's **maximum depth** is the number of nodes along the longest path from the root node down to the farthest leaf node. 
+
+# Example 1:  
+![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/104_ex1.jpg?raw=true)
+
+	Input: root = [3,9,20,null,null,15,7]
+	Output: 3
+
+# Example 2:  
+	Input: root = [1,null,2]
+	Output: 2
+
+# Example 3:  
+	Input: root = []
+	Output: 0
+
+# Example 4:  
+	Input: root = [0]
+	Output: 1
+
+# Constraints:  
+- The number of nodes in the tree is in the range <font color="red">[0, 10^4]</font>.
+- <font color="red">-100 <= Node.val <= 100</font>
+
+______________________  
+
+# Solution  
+
+Time complexity : O(n)  
+Space complexity : O(n)  
+
+	/**
+	 * Definition for a binary tree node.
+	 * struct TreeNode {
+	 *     int val;
+	 *     TreeNode *left;
+	 *     TreeNode *right;
+	 *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+	 *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+	 *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+	 * };
+	 */
+	class Solution {
+	public:
+	    int maxDepth(TreeNode* root) {
+	        if (!root) return 0;
+	        return max(maxDepth(root->left), maxDepth(root->right)) + 1;
+	    }
+	};
+
+使用 DFS 的方式，跑完所有節點。  
