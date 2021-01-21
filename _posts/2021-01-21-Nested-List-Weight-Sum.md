@@ -1,0 +1,146 @@
+---
+layout: post
+title:  "[LeetCode January Challange] Day 21 - Nested List Weight Sum"
+date:   2021-01-21 00:00:00 +0800
+categories: jekyll update
+tags: [LeetCode, Easy, Depth-first Search, Breadth-first Search, Facebook, Amazon, LinkedIn]
+---
+You are given a nested list of integers <font color="red">nestedList</font>. Each element is either an integer or a list whose elements may also be integers or other lists.
+
+The **depth** of an integer is the number of lists that it is inside of. For example, the nested list <font color="red">[1,[2,2],[[3],2],1]</font> has each integer's value set to its **depth**.
+
+Return *the sum of each integer in <font color="red">nestedList</font> multiplied by its **depth**.*
+
+# Example 1:
+
+![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/339_ex1.png?raw=true)
+
+	Input: nestedList = [[1,1],2,[1,1]]
+	Output: 10
+	Explanation: Four 1's at depth 2, one 2 at depth 1. 1*2 + 1*2 + 2*1 + 1*2 + 1*2 = 10.
+
+# Example 2:
+
+![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/339_ex2.png?raw=true)
+
+	Input: nestedList = [1,[4,[6]]]
+	Output: 27
+	Explanation: One 1 at depth 1, one 4 at depth 2, and one 6 at depth 3. 1*1 + 4*2 + 6*3 = 27.
+
+# Example 3:
+
+	Input: nestedList = [0]
+	Output: 0
+
+# Constraints:
+
+- <font color="red">1 <= nestedList.length <= 50</font>
+- The values of the integers in the nested list is in the range <font color="red">[-100, 100]</font>.
+- The maximum **depth** of any integer is less than or equal to <font color="red">50</font>.
+
+______________________  
+
+# Solution  
+
+# DFS
+
+Time complexity : O(n)  
+Space complexity : O(n)  
+
+	/**
+	 * // This is the interface that allows for creating nested lists.
+	 * // You should not implement it, or speculate about its implementation
+	 * class NestedInteger {
+	 *   public:
+	 *     // Constructor initializes an empty nested list.
+	 *     NestedInteger();
+	 *
+	 *     // Constructor initializes a single integer.
+	 *     NestedInteger(int value);
+	 *
+	 *     // Return true if this NestedInteger holds a single integer, rather than a nested list.
+	 *     bool isInteger() const;
+	 *
+	 *     // Return the single integer that this NestedInteger holds, if it holds a single integer
+	 *     // The result is undefined if this NestedInteger holds a nested list
+	 *     int getInteger() const;
+	 *
+	 *     // Set this NestedInteger to hold a single integer.
+	 *     void setInteger(int value);
+	 *
+	 *     // Set this NestedInteger to hold a nested list and adds a nested integer to it.
+	 *     void add(const NestedInteger &ni);
+	 *
+	 *     // Return the nested list that this NestedInteger holds, if it holds a nested list
+	 *     // The result is undefined if this NestedInteger holds a single integer
+	 *     const vector<NestedInteger> &getList() const;
+	 * };
+	 */
+	class Solution {
+	public:
+	    int depthSum(vector<NestedInteger>& nestedList, int w=1) {
+	        int sum = 0;
+	        for (NestedInteger nl: nestedList) {
+	            if (nl.isInteger()) sum += w*nl.getInteger();
+	            else sum += depthSum(nl.getList(), w+1);
+	        }
+	        return sum;
+	    }
+	};
+
+
+
+# BFS
+
+Time complexity : O(n)  
+Space complexity : O(n)  
+
+	/**
+	 * // This is the interface that allows for creating nested lists.
+	 * // You should not implement it, or speculate about its implementation
+	 * class NestedInteger {
+	 *   public:
+	 *     // Constructor initializes an empty nested list.
+	 *     NestedInteger();
+	 *
+	 *     // Constructor initializes a single integer.
+	 *     NestedInteger(int value);
+	 *
+	 *     // Return true if this NestedInteger holds a single integer, rather than a nested list.
+	 *     bool isInteger() const;
+	 *
+	 *     // Return the single integer that this NestedInteger holds, if it holds a single integer
+	 *     // The result is undefined if this NestedInteger holds a nested list
+	 *     int getInteger() const;
+	 *
+	 *     // Set this NestedInteger to hold a single integer.
+	 *     void setInteger(int value);
+	 *
+	 *     // Set this NestedInteger to hold a nested list and adds a nested integer to it.
+	 *     void add(const NestedInteger &ni);
+	 *
+	 *     // Return the nested list that this NestedInteger holds, if it holds a nested list
+	 *     // The result is undefined if this NestedInteger holds a single integer
+	 *     const vector<NestedInteger> &getList() const;
+	 * };
+	 */
+	class Solution {
+	public:
+	    int depthSum(vector<NestedInteger>& nestedList) {
+	        queue<NestedInteger> q;
+	        for (NestedInteger ni: nestedList)
+	            q.push(ni);
+	        int sum = 0;
+	        for (int w=1; !q.empty(); ++w) {
+	            for (int n=q.size(); 0<n; --n) {
+	                NestedInteger cur = q.front(); q.pop();
+	                if (cur.isInteger()) sum += w*cur.getInteger();
+	                else {
+	                    for (NestedInteger ni: cur.getList())
+	                        q.push(ni);
+	                }
+	            }
+	        }
+	        return sum;
+	    }
+	};
