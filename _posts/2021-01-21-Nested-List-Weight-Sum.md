@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 21 - Nested List Weight Sum"
+title:  "Nested List Weight Sum"
 date:   2021-01-21 00:00:00 +0800
 categories: jekyll update
 tags: [LeetCode, Easy, Depth-first Search, Breadth-first Search, Facebook, Amazon, LinkedIn]
