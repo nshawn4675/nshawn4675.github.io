@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: about
 title: About
-permalink: /about/
 ---
 ![GitHub](https://avatars1.githubusercontent.com/u/8012351?s=230&v=4)
 

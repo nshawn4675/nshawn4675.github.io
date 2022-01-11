@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: about
 title: My Human Graph
-permalink: /My Human Graph/
 ---
 
 參考資料 : [亞洲人類圖學院](https://humandesignasia.org)  
