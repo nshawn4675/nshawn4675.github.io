@@ -1,5 +1,4 @@
 home:
-  heading: "As long as we do it confidently, with positive energy, and in a way that's disciplined."
-  subheading: "synchrony is harmony."
-  banner: "/_pic/ori.jpg"
-#  banner: "https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/ori.jpg?raw=true"
+  heading: "Your awesome heading"
+  subheading: "Your awesome subheading"
+  banner: "Your image url"

@@ -201,7 +201,6 @@ github_username:  nshawn4675
 markdown: kramdown
 kramdown:
   input: GFM
-theme: jekyll-theme-yat
 
 plugins:
   - jekyll-feed

@@ -1,24 +1,13 @@
-GIT
-  remote: https://github.com/jekyll/jekyll.git
-  revision: e3cbe584f2a78141bf7f53cfef8cf237b3f4c201
+PATH
+  remote: .
   specs:
-    jekyll (4.2.1)
-      addressable (~> 2.4)
-      colorator (~> 1.0)
-      em-websocket (~> 0.5)
-      i18n (~> 1.0)
-      jekyll-sass-converter (~> 2.0)
-      jekyll-watch (~> 2.0)
-      kramdown (~> 2.3, >= 2.3.1)
-      kramdown-parser-gfm (~> 1.0)
-      liquid (~> 4.0)
-      mercenary (>= 0.3.6, < 0.5)
-      pathutil (~> 0.9)
-      psych (~> 3.3)
-      rouge (~> 3.0)
-      safe_yaml (~> 1.0)
-      terminal-table (>= 1.8, < 4.0)
-      webrick (~> 1.7)
+    jekyll-theme-yat (1.8.0)
+      jekyll (> 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.1)
+      jekyll-sitemap (~> 1.3)
+      jekyll-spaceship (~> 0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -37,6 +26,21 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.8.11)
       concurrent-ruby (~> 1.0)
+    jekyll (4.2.1)
+      addressable (~> 2.4)
+      colorator (~> 1.0)
+      em-websocket (~> 0.5)
+      i18n (~> 1.0)
+      jekyll-sass-converter (~> 2.0)
+      jekyll-watch (~> 2.0)
+      kramdown (~> 2.3)
+      kramdown-parser-gfm (~> 1.0)
+      liquid (~> 4.0)
+      mercenary (~> 0.4.0)
+      pathutil (~> 0.9)
+      rouge (~> 3.0)
+      safe_yaml (~> 1.0)
+      terminal-table (~> 2.0)
     jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
@@ -51,13 +55,6 @@ GEM
       jekyll (>= 3.6, < 5.0)
       nokogiri (~> 1.6)
       rainbow (~> 3.0)
-    jekyll-theme-yat (1.8.0)
-      jekyll (> 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.1)
-      jekyll-sitemap (~> 1.3)
-      jekyll-spaceship (~> 0.2)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.1)
@@ -65,24 +62,18 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    liquid-c (4.0.0)
-      liquid (>= 3.0.0)
     listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.7.1)
-    nokogiri (1.13.0)
-      mini_portile2 (~> 2.7.0)
-      racc (~> 1.4)
     nokogiri (1.13.0-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    psych (3.3.2)
     public_suffix (4.0.6)
     racc (1.6.0)
     rainbow (3.1.1)
+    rake (12.3.3)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -94,16 +85,15 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
-    webrick (1.7.0)
 
 PLATFORMS
   ruby
   x86_64-linux
 
 DEPENDENCIES
-  jekyll!
-  jekyll-theme-yat
-  liquid-c
+  bundler (>= 1.6, < 3.0)
+  jekyll-theme-yat!
+  rake (>= 12.0, < 13.0)
 
 BUNDLED WITH
    2.3.4
