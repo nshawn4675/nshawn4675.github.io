@@ -213,6 +213,7 @@ timezone: Asia/Taipei
 
 include:
   - _pic
+  - _layouts
 
 exclude:
   - .jekyll-cache

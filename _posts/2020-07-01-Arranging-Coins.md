@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day1-Arranging Coins"
 date:   2020-07-01 00:00:00 +0800
-categories: jekyll update
-tags:
+categories: LeetCode
+tags: [Math]
 ---
 You have a total of n coins that you want to form in a staircase shape, where every k-th row must have exactly k coins.  
 

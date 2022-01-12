@@ -2,7 +2,8 @@
 layout: post
 title:  "MQTT with wemos & win10"
 date:   2019-10-14 16:00:00 +0800
-categories: jekyll update
+categories: note
+tags: [MQTT, Arduino]
 ---
 ## [About MQTT](https://en.wikipedia.org/wiki/MQTT)  
 ## [Get started with Wemos D1 R2](https://gist.github.com/carljdp/e6a3f5a11edea63c2c14312b534f4e53)

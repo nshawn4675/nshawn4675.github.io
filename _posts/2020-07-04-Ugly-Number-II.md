@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day4-Ugly Number II"
 date:   2020-07-04 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, Math, Dynamic Programming, Heap (Priority Queue), C++]
 ---
 Write a program to find the **n**-th ugly number.  
 

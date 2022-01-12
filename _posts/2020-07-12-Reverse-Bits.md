@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day12-Reverse Bits"
 date:   2020-07-12 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Divide and Conquer, Bit Manipulation, C++]
 ---
 Reverse bits of a given 32 bits unsigned integer.  
 

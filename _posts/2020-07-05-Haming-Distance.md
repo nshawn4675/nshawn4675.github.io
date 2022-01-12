@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day5-Hamming Distance"
 date:   2020-07-05 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Bit Manipulation, C++]
 ---
 The [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between two integers is the number of positions at which the corresponding bits are different.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day7-Island Perimeter"
 date:   2020-07-07 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Depth-First-Search, Breadth-First-Search, Matrix, C++]
 ---
 You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  
 

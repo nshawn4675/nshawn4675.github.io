@@ -2,7 +2,8 @@
 layout: post
 title:  "Q-learning"
 date:   2019-08-05 00:00:00 +0800
-categories: jekyll update
+categories: note
+tags: [Q-learning]
 ---
 ## Reinforcement Learning  
 From A to Z by repeat again and again.  

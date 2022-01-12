@@ -2,8 +2,8 @@
 layout: post
 title:  "Win 10 & VM Ubuntu 18.04 - shared folder"
 date:   2019-06-26 00:00:00 +0800
-categories: jekyll update
-tags:
+categories: note
+tags: [VirtualBox, Ubuntu]
 ---
 ## VMware tools
 Reinstall VMware tools  

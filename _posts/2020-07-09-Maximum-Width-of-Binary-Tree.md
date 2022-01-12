@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day9-Maximum Width of Binary Tree"
 date:   2020-07-09 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Depth-First-Search, Breadth-First-Search, Binary Tree, C++]
 ---
 Given a binary tree, write a function to get the maximum width of the given tree. The width of a tree is the maximum width among all levels. The binary tree has the same structure as a **full binary tree**, but some nodes are null.  
 

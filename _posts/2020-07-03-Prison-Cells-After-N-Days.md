@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day3-Prison Cells After N Days"
 date:   2020-07-03 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, Math, Bit Manipulation, C++]
 ---
 There are 8 prison cells in a row, and each cell is either occupied or vacant.  
 

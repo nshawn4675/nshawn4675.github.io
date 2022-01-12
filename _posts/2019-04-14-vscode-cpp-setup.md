@@ -2,8 +2,8 @@
 layout: post
 title:  "vscode with c++ Windows setup"
 date:   2019-04-14 00:00:00 +0800
-categories: jekyll update
-tags:
+categories: note
+tags: [VScode, C++]
 ---
 ## [Download & Install Visual Studio Code](https://code.visualstudio.com)
 ## [Download & Install MinGW-w64](https://sourceforge.net/projects/mingw-w64/)

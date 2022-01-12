@@ -2,7 +2,8 @@
 layout: post
 title:  "tennis game"
 date:   2019-03-15 17:51:31 +0800
-categories: jekyll update
+categories: misc
+tags: [JavaScript]
 ---
 <html>
 	<canvas id="gameCanvas" width="800" height="600"></canvas>

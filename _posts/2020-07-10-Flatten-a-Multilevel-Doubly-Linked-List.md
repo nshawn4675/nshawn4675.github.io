@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode July Challange]Day10-Maximum Width of Binary Tree"
+title:  "[LeetCode July Challange]Day10-Flatten a Multilevel Doubly Linked List"
 date:   2020-07-10 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Linked List, Depth-First-Search, Doubly-Linked List, C++]
 ---
 You are given a doubly linked list which in addition to the next and previous pointers, it could have a child pointer, which may or may not point to a separate doubly linked list. These child lists may have one or more children of their own, and so on, to produce a multilevel data structure, as shown in the example below.  
 
