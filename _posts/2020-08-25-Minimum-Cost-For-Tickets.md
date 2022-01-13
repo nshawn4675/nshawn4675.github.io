@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day25-Minimum Cost For Tickets"
 date:   2020-08-25 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Dynamic Programming, C++]
 ---
 In a country popular for train travel, you have planned some train travelling one year in advance.  The days of the year that you will travel is given as an array **<font color="red">days</font>**.  Each day is an integer from **<font color="red">1</font>** to **<font color="red">365</font>**.  
 

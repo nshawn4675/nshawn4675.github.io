@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day7-Word Pattern"
 date:   2020-09-07 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, String, C++]
 ---
 Given a **<font color="red">pattern</font>** and a string **<font color="red">str</font>**, find if **<font color="red">str</font>** follows the same pattern.
 

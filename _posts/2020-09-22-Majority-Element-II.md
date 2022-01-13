@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day22-Majority Element II"
 date:   2020-09-22 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array]
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Sorting, Counting, C++]
 ---
 Given an integer array of size *n*, find all elements that appear more than <font color="red">⌊ n/3 ⌋</font> times.  
 

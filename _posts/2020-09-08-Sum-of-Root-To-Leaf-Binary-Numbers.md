@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day8-Sum of Root To Leaf Binary Numbers"
 date:   2020-09-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Tree]
+categories: LeetCode
+tags: [Tree, Depth-First-Search, Binary Tree, C++]
 ---
 Given a binary tree, each node has value **<font color="red">0</font>** or **<font color="red">1</font>**.  Each root-to-leaf path represents a binary number starting with the most significant bit.  For example, if the path is **<font color="red">0 -> 1 -> 1 -> 0 -> 1</font>**, then this could represent **<font color="red">01101</font>** in binary, which is **<font color="red">13</font>**.  
 

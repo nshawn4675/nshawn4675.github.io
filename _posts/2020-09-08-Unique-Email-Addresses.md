@@ -2,8 +2,8 @@
 layout: post
 title:  "929. Unique Email Addresses"
 date:   2020-09-08 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode string
+categories: LeetCode
+tags: [Array, Hash Table, String, C++]
 ---
 Every email consists of a local name and a domain name, separated by the @ sign.  
 

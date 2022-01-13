@@ -2,8 +2,8 @@
 layout: post
 title:  "157. Read N Characters Given Read4"
 date:   2020-09-08 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode string
+categories: LeetCode
+tags: [String, C++]
 ---
 Given a file and assume that you can only read the file using a given method **<font color="red">read4</font>**, implement a method to read *n* characters.  
 

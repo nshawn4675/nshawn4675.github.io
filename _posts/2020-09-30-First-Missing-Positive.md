@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day30-First Missing Positive"
 date:   2020-09-30 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Array, Amazon, Microsoft, Google, Databricks, Apple, Tesla, eBay, Uber, Bloomberg, ByteDance, Goldman Sachs]
+categories: LeetCode
+tags: [Hard, Array, Hash Table, Amazon, Microsoft, Google, Databricks, Apple, Tesla, eBay, Uber, Bloomberg, ByteDance, Goldman Sachs, C++]
 ---
 Given an unsorted integer array, find the smallest missing positive integer.
 

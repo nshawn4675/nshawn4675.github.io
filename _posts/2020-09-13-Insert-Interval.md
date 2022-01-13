@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day13-Insert Interval"
 date:   2020-09-13 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Array, Sort]
+categories: LeetCode
+tags: [Hard, Array, C++]
 ---
 Given a set of *non-overlapping* intervals, insert a new interval into the intervals (merge if necessary).  
 

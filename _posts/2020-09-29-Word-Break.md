@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day29-Word Break"
 date:   2020-09-29 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Dynamic Programming, Facebook, Amazon, Apple, Microsoft, Google, Bloomberg, Qualtrics, ByteDance, Twitter, Adobe, eBay, GoDaddy]
+categories: LeetCode
+tags: [Medium, Hash Table, String, Dynamic Programming, Trie, Memoization, Facebook, Amazon, Apple, Microsoft, Google, Bloomberg, Qualtrics, ByteDance, Twitter, Adobe, eBay, GoDaddy, C++]
 ---
 Given a **non-empty** string s and a dictionary *wordDict* containing a list of **non-empty** words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day9-Compare Version Numbers"
 date:   2020-09-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, String]
+categories: LeetCode
+tags: [Two Pointers, String, C++]
 ---
 Compare two version numbers *version1* and *version2*.  
 If **<font color="red">version1 > version2</font>** return **<font color="red">1</font>**; if **<font color="red">version1 < version2</font>** return **<font color="red">-1</font>**;otherwise return **<font color="red">0</font>**.  

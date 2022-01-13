@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day15-Length of Last Word"
 date:   2020-09-15 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String]
+categories: LeetCode
+tags: [Easy, String, C++]
 ---
 Given a string *s* consists of upper/lower-case alphabets and empty space characters **<font color="red">' '</font>**, return the length of last word (last word means the last appearing word if we loop from left to right) in the string.  
 

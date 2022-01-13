@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day24-Find the Difference"
 date:   2020-09-24 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Bit Manipulation, Amazon]
+categories: LeetCode
+tags: [Easy, Hash Table, String, Bit Manipulation, Sorting, Amazon, C++]
 ---
 Given two strings ***s*** and ***t*** which consist of only lowercase letters.
 

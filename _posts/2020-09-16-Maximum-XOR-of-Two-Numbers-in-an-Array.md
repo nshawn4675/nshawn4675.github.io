@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day16-Maximum XOR of Two Numbers in an Array"
 date:   2020-09-16 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Bit Manipulation, Trie]
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Bit Manipulation, Trie, C++]
 ---
 Given an integer array **<font color="red">nums</font>**, return the *maximum result of* *<font color="red">nums[i] XOR nums[j]</font>*, where **<font color="red">0 ≤ i ≤ j < n</font>**.  
 

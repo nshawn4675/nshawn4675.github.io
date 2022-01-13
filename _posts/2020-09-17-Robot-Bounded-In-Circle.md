@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day17-Robot Bounded In Circle"
 date:   2020-09-17 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math]
+categories: LeetCode
+tags: [Medium, Math, String, Simulation, C++]
 ---
 On an infinite plane, a robot initially stands at **<font color="red">(0, 0)</font>** and faces north.  The robot can receive one of three instructions:  
 

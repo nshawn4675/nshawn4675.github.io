@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day4-Partition Labels"
 date:   2020-09-04 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, Two Pointers, String, Greedy, C++]
 ---
 A string **<font color="red">S</font>** of lowercase English letters is given. We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing the size of these parts.  
 

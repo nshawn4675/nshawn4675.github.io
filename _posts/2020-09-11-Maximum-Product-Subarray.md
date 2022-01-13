@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day11-Maximum Product Subarray"
 date:   2020-09-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Dynamic Programming]
+categories: LeetCode
+tags: [Medium, Array, Dynamic Programming, C++]
 ---
 Given an integer array **<font color="red">nums</font>**, find the contiguous subarray within an array (containing at least one number) which has the largest product.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day5-All Elements in Two Binary Search Trees"
 date:   2020-09-05 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Depth-First-Search, Binary Search Tree, Sorting, Binary Tree, C++]
 ---
 Given two binary search trees **<font color="red">root1</font>** and **<font color="red">root2</font>**.
 

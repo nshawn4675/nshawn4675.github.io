@@ -2,8 +2,8 @@
 layout: post
 title:  "Inorder Successor in BST II"
 date:   2020-09-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Microsoft, Quip(Salesforce)]
+categories: LeetCode
+tags: [Medium, Tree, Microsoft, Quip(Salesforce), C++]
 ---
 Given a <font color="red">node</font> in a binary search tree, find the in-order successor of that node in the BST.  
 

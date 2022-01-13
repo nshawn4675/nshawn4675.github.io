@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day31-Delete Node in a BST"
 date:   2020-08-31 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Binary Search Tree, Binary Tree, C++]
 ---
 Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.  
 

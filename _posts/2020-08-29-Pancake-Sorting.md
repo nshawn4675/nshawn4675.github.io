@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day29-Pancake Sorting"
 date:   2020-08-29 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Two Pointers, Greedy, Sorting, C++]
 ---
 Given an array of integers **<font color="red">A</font>**, We need to sort the array performing a series of **pancake flips**.
 

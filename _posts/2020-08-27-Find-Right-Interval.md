@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day27-Find Right Interval"
 date:   2020-08-27 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Binary Search, Sorting, C++]
 ---
 Given a set of intervals, for each of the interval i, check if there exists an interval j whose start point is bigger than or equal to the end point of the interval i, which can be called that j is on the "right" of i.  
 

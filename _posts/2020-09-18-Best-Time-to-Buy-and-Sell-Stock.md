@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day18-Best Time to Buy and Sell Stock"
 date:   2020-09-18 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Dynamic Programming]
+categories: LeetCode
+tags: [Easy, Array, Dynamic Programming, C++]
 ---
 Say you have an array for which the *i-th* element is the price of a given stock on day *i*.
 

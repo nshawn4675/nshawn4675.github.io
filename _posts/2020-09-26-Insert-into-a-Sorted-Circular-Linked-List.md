@@ -2,8 +2,8 @@
 layout: post
 title:  "Insert into a Sorted Circular Linked List"
 date:   2020-09-26 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Facebook, Quip (Saleforce)]
+categories: LeetCode
+tags: [Medium, Linked List, Facebook, Quip (Saleforce), C++]
 ---
 Given a node from a **Circular Linked List** which is sorted in ascending order, write a function to insert a value <font color="red">insertVal</font> into the list such that it remains a sorted circular list. The given node can be a reference to any single node in the list, and may not be necessarily the smallest value in the circular list.  
 

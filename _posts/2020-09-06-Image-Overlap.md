@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day6-Image Overlap"
 date:   2020-09-06 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Matrix, C++]
 ---
 Two images **<font color="red">A</font>** and **<font color="red">B</font>** are given, represented as binary, square matrices of the same size.  (A binary matrix has only 0s and 1s as values.)  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day3-Repeated Substring Pattern"
 date:   2020-09-03 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, String Matching, C++]
 ---
 Given a non-empty string check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. You may assume the given string consists of lowercase English letters only and its length will not exceed 10000.  
 

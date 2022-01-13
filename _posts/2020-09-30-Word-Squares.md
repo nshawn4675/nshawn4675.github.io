@@ -2,8 +2,8 @@
 layout: post
 title:  "Word Squares"
 date:   2020-09-30 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Backtracking, Trie, Bloomberg]
+categories: LeetCode
+tags: [Hard, Backtracking, Trie, Bloomberg, C++]
 ---
 Given a set of words **(without duplicates)**, find all [word squares](https://en.wikipedia.org/wiki/Word_square) you can build from them.  
 

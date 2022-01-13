@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day2-Contains Duplicate III"
 date:   2020-09-02 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Sliding Window, Sorting, Bucket Sort, Ordered Set, C++]
 ---
 Given an array of integers, find out whether there are two distinct indices *i* and *j* in the array such that the **absolute** difference between **nums[i]** and **nums[j]** is at most t and the **absolute** difference between *i* and *j* is at most *k*.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day19-Sequential Digits"
 date:   2020-09-19 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Backtracking]
+categories: LeetCode
+tags: [Medium, Enumeration, C++]
 ---
 An integer has *sequential digits* if and only if each digit in the number is one more than the previous digit.  
 

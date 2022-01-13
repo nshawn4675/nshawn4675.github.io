@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day28-Subarray Product Less Than K"
 date:   2020-09-28 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Two Pointers, Akuna Capital, Google]
+categories: LeetCode
+tags: [Medium, Array, Sliding Window, Akuna Capital, Google, C++]
 ---
 Your are given an array of positive integers <font color="red">nums</font>.  
 

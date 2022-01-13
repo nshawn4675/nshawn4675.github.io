@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day21-Car Pooling"
 date:   2020-09-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Greedy]
+categories: LeetCode
+tags: [Medium, Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum, C++]
 ---
 You are driving a vehicle that has <font color="red">capacity</font> empty seats initially available for passengers.  The vehicle **only** drives east (ie. it **cannot** turn around and drive west.)  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day20-Unique Paths III"
 date:   2020-09-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Backtracking, Depth-first Search]
+categories: LeetCode
+tags: [Hard, Array, Backtracking, Bit Manipulation, Matrix, C++]
 ---
 On a 2-dimensional <font color="red">grid</font>, there are 4 types of squares:  
 

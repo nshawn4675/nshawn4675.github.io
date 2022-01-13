@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day27-Evaluate Division"
 date:   2020-09-27 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Union Find, Graph, Amazon, Google, Bloomberg, Facebook, Microsoft]
+categories: LeetCode
+tags: [Medium, Array, Depth-First-Search, Breadth-First-Search, Union Find, Graph, Amazon, Google, Bloomberg, Facebook, Microsoft, C++]
 ---
 You are given <font color="red">equations</font> in the format <font color="red">A / B = k</font>, where <font color="red">A</font> and <font color="red">B</font> are variables represented as strings, and <font color="red">k</font> is a real number (floating-point number). Given some <font color="red">queries</font>, return the answers. If the answer does not exist, return <font color="red">-1.0</font>.  
 

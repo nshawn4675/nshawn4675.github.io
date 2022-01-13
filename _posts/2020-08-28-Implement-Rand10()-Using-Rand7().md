@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day28-Implement Rand10() Using Rand7()"
 date:   2020-08-28 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Rejection Sampling, Randomized, Probability and Statistics, C++]
 ---
 Given the **API** **<font color="red">rand7</font>** which generates a uniform random integer in the range 1 to 7, write a function **<font color="red">rand10</font>** which generates a uniform random integer in the range 1 to 10. You can only call the API **<font color="red">rand7</font>** and you shouldn't call any other API. Please **don't** use the system's **<font color="red">Math.random()</font>**.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day25-Largest Number"
 date:   2020-09-25 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Sort, Microsoft, Apple, Facebook, Amazon, Adobe, ByteDance]
+categories: LeetCode
+tags: [Medium, String, Greedy, Sorting, Microsoft, Apple, Facebook, Amazon, Adobe, ByteDance, C++]
 ---
 Given a list of non negative integers, arrange them such that they form the largest number.
 

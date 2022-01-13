@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day23-Gas Station"
 date:   2020-09-23 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Greedy, Amazon, Microsoft, Google, Uber, Apple]
+categories: LeetCode
+tags: [Medium, Array, Greedy, Amazon, Microsoft, Google, Uber, Apple, C++]
 ---
 There are *N* gas stations along a circular route, where the amount of gas at station *i* is <font color="red">gas[i]</font>.  
 

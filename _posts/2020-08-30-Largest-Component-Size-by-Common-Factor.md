@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day30-Largest Component Size by Common Factor"
 date:   2020-08-30 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Math, Union Find, C++]
 ---
 Given a non-empty array of unique positive integers **<font color="red">A</font>**, consider the following graph:  
 

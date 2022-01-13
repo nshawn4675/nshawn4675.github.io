@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode September Challange]Day1-Largest Time for Given Digits"
 date:   2020-09-01 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, Enumeration, C++]
 ---
 Given an array of 4 digits, return the largest 24 hour time that can be made.  
 

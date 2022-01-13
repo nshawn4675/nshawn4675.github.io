@@ -2,8 +2,8 @@
 layout: post
 title:  "346. Moving Average from Data Stream"
 date:   2020-09-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Design, Queue]
+categories: LeetCode
+tags: [Design, Queue, C++]
 ---
 Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.
 
