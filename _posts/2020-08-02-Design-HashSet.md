@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day2-Design HashSet"
 date:   2020-08-02 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, Linked List, Design, Hash Function, C++]
 ---
 Design a HashSet without using any built-in hash table libraries.  
 

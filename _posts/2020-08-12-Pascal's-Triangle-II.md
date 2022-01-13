@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day12-Pascal's Triangle II"
 date:   2020-08-12 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Dynamic Programming, C++]
 ---
 Given a non-negative index k where k ≤ 33, return the k-th index row of the Pascal's triangle.  
 

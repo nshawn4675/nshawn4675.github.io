@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day21-Word Search"
 date:   2020-07-21 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Backtracking, Matrix, C++]
 ---
 Given a 2D board and a word, find if the word exists in the grid.  
 

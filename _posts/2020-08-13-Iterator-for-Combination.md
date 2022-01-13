@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day13-Iterator for Combination"
 date:   2020-08-13 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, Backtracking, Design, Iterator, C++]
 ---
 Design an Iterator class, which has:
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day27-Construct Binary Tree from Inorder and Postorder Traversal"
 date:   2020-07-27 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, Divide and Conquer, Tree, Binary Tree, C++]
 ---
 Given inorder and postorder traversal of a tree, construct the binary tree.  
 

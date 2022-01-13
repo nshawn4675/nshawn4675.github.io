@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day30-Word Break II"
 date:   2020-07-30 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization, C++]
 ---
 Given a **non-empty** string *s* and a dictionary *wordDict* containing a list of **non-empty** words, add spaces in s to construct a sentence where each word is a valid dictionary word. Return all such possible sentences.
 

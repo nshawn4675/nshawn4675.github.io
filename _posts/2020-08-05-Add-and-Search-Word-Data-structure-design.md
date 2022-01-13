@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day5-Add and Search Word - Data structure design"
 date:   2020-08-05 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, Depth-First-Search, Design, Trie, C++]
 ---
 Design a data structure that supports the following two operations:  
 

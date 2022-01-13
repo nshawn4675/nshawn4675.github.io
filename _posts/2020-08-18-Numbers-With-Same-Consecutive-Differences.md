@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day18-Numbers With Same Consecutive Differences"
 date:   2020-08-18 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Backtracking, Breadth-First-Search, C++]
 ---
 Return all **non-negative** integers of length **<font color="red">N</font>** such that the absolute difference between every two consecutive digits is **<font color="red">K</font>**.  
 

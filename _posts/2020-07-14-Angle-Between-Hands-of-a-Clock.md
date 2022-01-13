@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day14-Angle Between Hands of a Clock"
 date:   2020-07-14 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, C++]
 ---
 Given two numbers, **hour** and **minutes**. Return the smaller angle (in degrees) formed between the **hour** and the **minute** hand.
 

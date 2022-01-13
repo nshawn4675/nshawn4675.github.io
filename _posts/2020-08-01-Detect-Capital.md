@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day1-Detect Capital"
 date:   2020-08-01 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, C++]]
 ---
 Given a word, you need to judge whether the usage of capitals in it is right or not.  
 

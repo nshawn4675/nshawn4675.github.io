@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day20-Remove Linked List Elements"
 date:   2020-07-20 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Linked List, Recursion, C++]
 ---
 Remove all elements from a linked list of integers that have value **val**.
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day4-Power of Four"
 date:   2020-08-04 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Bit Manipulation, Recursion, C++]
 ---
 Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
 

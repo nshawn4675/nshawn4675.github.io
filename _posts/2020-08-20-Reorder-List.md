@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day20-Reorder List"
 date:   2020-08-20 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Linked List, Two Pointers, Stack, Recursion, C++]
 ---
 Given a singly linked list *L: L0→L1→…→Ln-1→Ln*,  
 reorder it to: *L0→Ln→L1→Ln-1→L2→Ln-2*→…

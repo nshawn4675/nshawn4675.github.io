@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day22-Random Point in Non-overlapping Rectangles"
 date:   2020-08-22 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Binary Search, Reservoir Sampling, Prefix Sum, Ordered Set, Randomized, C++]
 ---
 Given a list of **non-overlapping** axis-aligned rectangles **<font color="red">rects</font>**, write a function **<font color="red">pick</font>** which randomly and uniformily picks an **integer point** in the space covered by the rectangles.  
 

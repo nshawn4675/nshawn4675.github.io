@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day24-Sum of Left Leaves"
 date:   2020-08-24 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Depth-First-Search, Breadth-First-Search, Binary Tree, C++]
 ---
 Find the sum of all left leaves in a given binary tree.  
 

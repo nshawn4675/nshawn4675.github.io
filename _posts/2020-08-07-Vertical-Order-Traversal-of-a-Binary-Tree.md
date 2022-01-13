@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day7-Vertical Order Traversal of a Binary Tree"
 date:   2020-08-07 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, Tree, Depth-First-Search, Breadth-First-Search, Binary Tree, C++]
 ---
 Given a binary tree, return the vertical order traversal of its nodes values.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day6-Find All Duplicates in an Array"
 date:   2020-08-06 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, C++]
 ---
 Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear **twice** and others appear **once**.
 

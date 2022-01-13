@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day8-Path Sum III"
 date:   2020-08-08 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Depth-First-Search, Binary Tree, C++]
 ---
 You are given a binary tree in which each node contains an integer value.
 

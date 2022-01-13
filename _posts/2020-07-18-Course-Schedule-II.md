@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day18-Course Schedule II"
 date:   2020-07-18 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Depth-First-Search, Breadth-First-Search, Graph, Topological Sort, C++]
 ---
 There are a total of *n* courses you have to take, labeled from **0** to **n-1**.  
 

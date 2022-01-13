@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day14-Longest Palindrome"
 date:   2020-08-14 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Hash Table, String, Greedy, C++]
 ---
 Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.  
 

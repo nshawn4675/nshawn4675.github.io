@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day3-Valid Palindrome"
 date:   2020-08-03 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Two Pointers, String, C++]
 ---
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.  
 

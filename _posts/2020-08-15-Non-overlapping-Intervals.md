@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day15-Non-overlapping Intervals"
 date:   2020-08-15 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Dynamic Programming, Greedy, Sorting, C++]
 ---
 Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day29-Best Time to Buy and Sell Stock with Cooldown"
 date:   2020-07-29 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Dynamic Programming, C++]
 ---
 Say you have an array for which the *ith* element is the price of a given stock on day *i*.
 

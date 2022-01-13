@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day23-Stream of Characters"
 date:   2020-08-23 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, String, Design, Trie, Data Stream, C++]
 ---
 Implement the **<font color="red">StreamChecker</font>** class as follows:  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day24-All Paths From Source to Target"
 date:   2020-07-24 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Backtracking, Depth-First-Search, Breadth-First-Search, Graph, C++]
 ---
 Given a directed, acyclic graph of **N** nodes.  Find all possible paths from node **0** to node **N-1**, and return them in any order.  
 

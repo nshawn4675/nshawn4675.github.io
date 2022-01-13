@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day19-Add Binary"
 date:   2020-07-19 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, String, Bit Manipulation, Simulation, C++]
 ---
 Given two binary strings, return their sum (also a binary string).  
 

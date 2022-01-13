@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day19-Goat Latin"
 date:   2020-08-19 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [String, C++]
 ---
 A sentence **<font color="red">S</font>** is given, composed of words separated by spaces. Each word consists of lowercase and uppercase letters only.
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day26-Add Digits"
 date:   2020-07-26 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Simulation, Number Theory, C++]
 ---
 Given a non-negative integer **num**, repeatedly add all its digits until the result has only one digit.  
 

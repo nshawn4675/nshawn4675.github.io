@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day23-Single Number III"
 date:   2020-07-23 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Bit Manipulation, C++]
 ---
 Given an array of numbers **nums**, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.
 

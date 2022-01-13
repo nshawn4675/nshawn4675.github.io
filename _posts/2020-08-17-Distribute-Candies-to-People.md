@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day17-Distribute Candies to People"
 date:   2020-08-17 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Simulation, C++]
 ---
 We distribute some number of **<font color="red">candies</font>**, to a row of **<font color="red">n = num_people</font>** people in the following way:  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day31-Climbing Stairs"
 date:   2020-07-31 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, Dynamic Programming, Memoization, C++]
 ---
 You are climbing a stair case. It takes n steps to reach to the top.
 

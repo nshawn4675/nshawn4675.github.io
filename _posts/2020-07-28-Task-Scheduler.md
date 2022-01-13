@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day28-Task Scheduler"
 date:   2020-07-28 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting, C++]
 ---
 You are given a char array representing tasks CPU need to do. It contains capital letters A to Z where each letter represents a different task. Tasks could be done without the original order of the array. Each task is done in one unit of time. For each unit of time, the CPU could complete either one task or just be idle.  
 

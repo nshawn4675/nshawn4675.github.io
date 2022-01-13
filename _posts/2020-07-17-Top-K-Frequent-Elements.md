@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day17-Top K Frequent Elements"
 date:   2020-07-17 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect, C++]
 ---
 Given a non-empty array of integers, return the **k** most frequent elements.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day21-Sort Array By Parity"
 date:   2020-08-21 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Two Pointers, Sorting, C++]
 ---
 Given an array **<font color="red">A</font>** of non-negative integers, return an array consisting of all the even elements of **<font color="red">A</font>**, followed by all the odd elements of **<font color="red">A</font>**.  
 

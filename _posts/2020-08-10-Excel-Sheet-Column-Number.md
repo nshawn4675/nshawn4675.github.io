@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day10-Excel Sheet Column Number"
 date:   2020-08-10 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Math, String, C++]
 ---
 Given a column title as appear in an Excel sheet, return its corresponding column number.
 

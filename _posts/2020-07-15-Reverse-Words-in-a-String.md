@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day15-Reverse Words in a String"
 date:   2020-07-15 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Two Pointers, String, C++]
 ---
 Given an input string, reverse the string word by word.  
 

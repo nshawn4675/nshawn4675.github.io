@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode July Challange]Day22-Binary Tree Zigzag Level Order Traversal"
 date:   2020-07-22 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Tree, Breadth-First-Search, Binary Tree, C++]
 ---
 Given a binary tree, return the *zigzag level order* traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).  
 

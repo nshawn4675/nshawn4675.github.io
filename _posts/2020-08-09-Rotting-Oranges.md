@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode August Challange]Day9-Rotting Oranges"
 date:   2020-08-09 00:00:00 +0800
-categories: jekyll update
-tags: LeetCode
+categories: LeetCode
+tags: [Array, Breadth-First-Search, Matrix, C++]
 ---
 In a given grid, each cell can have one of three values:  
 
