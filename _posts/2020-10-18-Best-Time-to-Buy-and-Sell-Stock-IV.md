@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 18 - Best Time to Buy and Sell Stock IV"
 date:   2020-10-18 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Dynamic Programming, Amazon, Bloomberg, Google, Citadel]
+categories: LeetCode
+tags: [Hard, Array, Dynamic Programming, Amazon, Bloomberg, Google, Citadel, C++]
 ---
 You are given an integer array <font color="red">prices</font> where <font color="red">prices[i]</font> is the price of a given stock on the i-th day.  
 

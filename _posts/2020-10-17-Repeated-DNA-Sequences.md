@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 17 - Repeated DNA Sequences"
 date:   2020-10-17 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Hash Table, Bit Manipulation, Amazon, Apple, Microsoft]
+categories: LeetCode
+tags: [Medium, Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Amazon, Apple, Microsoft, C++]
 ---
 All DNA is composed of a series of nucleotides abbreviated as <font color="red">'A'</font>, <font color="red">'C'</font>, <font color="red">'G'</font>, and <font color="red">'T'</font>, for example: <font color="red">"ACGAATTCCG"</font>. When studying DNA, it is sometimes useful to identify repeated sequences within the DNA.  
 

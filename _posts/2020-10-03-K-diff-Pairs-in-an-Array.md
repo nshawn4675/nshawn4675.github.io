@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 3 - K-diff Pairs in an Array"
 date:   2020-10-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Two Pointers, Goldman Sachs, Microsoft]
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Two Pointers, Binary Search, Sorting, Goldman Sachs, Microsoft, C++]
 ---
 Given an array of integers <font color="red">nums</font> and an integer <font color="red">k</font>, return *the number of **unique** k-diff pairs in the array*.  
 

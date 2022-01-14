@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 27 - Linked List Cycle II"
 date:   2020-10-27 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Two Pointers, Microsoft, Apple]
+categories: LeetCode
+tags: [Medium, Hash Table, Linked List, Two Pointers, Microsoft, Apple, C++]
 ---
 Given a linked list, return the node where the cycle begins. If there is no cycle, return <font color="red">null</font>.
 

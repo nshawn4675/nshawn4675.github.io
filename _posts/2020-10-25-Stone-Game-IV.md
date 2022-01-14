@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 25 - Stone Game IV"
 date:   2020-10-25 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Dynamic Programming, Microsoft]
+categories: LeetCode
+tags: [Hard, Math, Dynamic Programming, Game Theory, Microsoft, C++]
 ---
 Alice and Bob take turns playing a game, with Alice starting first.  
 

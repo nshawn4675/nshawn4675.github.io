@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 2 - Combination Sum"
 date:   2020-10-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Backtracking, Amazon, Facebook, eBay, Uber, Microsoft, Apple]
+categories: LeetCode
+tags: [Medium, Array, Backtracking, Amazon, Facebook, eBay, Uber, Microsoft, Apple, C++]
 ---
 Given an array of **distinct** integers <font color="red">candidates</font> and a <font color="red">target</font> integer target, return *a list of all **unique combinations** of <font color="red">candidates</font> where the chosen numbers sum to* <font color="red">target</font>. You may return the combinations in **any order**.  
 

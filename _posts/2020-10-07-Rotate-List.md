@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 7 - Rotate List"
 date:   2020-10-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Two Pointers, Amazon, Bloomberg, Adobe]
+categories: LeetCode
+tags: [Medium, Linked List, Two Pointers, Amazon, Bloomberg, Adobe, C++]
 ---
 Given a linked list, rotate the list to the right by *k* places, where *k* is non-negative.  
 

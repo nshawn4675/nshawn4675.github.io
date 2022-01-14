@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 15 - Rotate Array"
 date:   2020-10-15 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Facebook, Microsoft, Apple]
+categories: LeetCode
+tags: [Medium, Array, Math, Two Pointers, Facebook, Microsoft, Apple, C++]
 ---
 Given an array, rotate the array to the right by *k* steps, where *k* is non-negative.  
 

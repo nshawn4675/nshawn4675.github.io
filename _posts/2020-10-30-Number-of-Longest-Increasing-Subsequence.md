@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 30 - Number of Longest Increasing Subsequence"
 date:   2020-10-30 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Dynamic Programming, Bloomberg]
+categories: LeetCode
+tags: [Medium, Array, Dynamic Programming, Binary Indexed Tree, Segment Tree, Bloomberg, C++]
 ---
 Given an integer array <font color="red">nums</font>, return *the number of longest increasing subsequences*.
 

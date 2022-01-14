@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 12 - Buddy Strings"
 date:   2020-10-12 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String, Facebook]
+categories: LeetCode
+tags: [Easy, Hash Table, String, Facebook, C++]
 ---
 Given two strings <font color="red">A</font> and <font color="red">B</font> of lowercase letters, return <font color="red">true</font> *if you can swap two letters in* <font color="red">A</font> *so the result is equal to* <font color="red">B</font>, *otherwise, return* <font color="red">false</font>.  
 

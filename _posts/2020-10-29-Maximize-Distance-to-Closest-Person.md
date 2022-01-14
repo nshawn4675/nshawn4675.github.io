@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 29 - Maximize Distance to Closest Person"
 date:   2020-10-29 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Audible, Amazon, Microsoft]
+categories: LeetCode
+tags: [Medium, Array, Audible, Amazon, Microsoft, C++]
 ---
 You are given an array representing a row of <font color="red">seats</font> where <font color="red">seats[i] = 1</font> represents a person sitting in the <font color="red">i-th</font> seat, and <font color="red">seats[i] = 0</font> represents that the <font color="red">i-th</font> seat is empty (0-indexed).  
 

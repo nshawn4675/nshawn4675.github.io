@@ -2,8 +2,8 @@
 layout: post
 title:  "253. Meeting Rooms II"
 date:   2020-10-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Heap, Greedy, Sort, Amazon, Bloomberg, Facebook, eBay, Google, Apple, Microsoft, Yandex, Snapchat, Oracle, Roblox]
+categories: LeetCode
+tags: [Medium, Heap, Greedy, Sort, Amazon, Bloomberg, Facebook, eBay, Google, Apple, Microsoft, Yandex, Snapchat, Oracle, Roblox, C++]
 ---
 Given an array of meeting time intervals consisting of start and end times <font color="red">[[s1,e1],[s2,e2],...]</font> \(si < ei\), find the minimum number of conference rooms required.  
 

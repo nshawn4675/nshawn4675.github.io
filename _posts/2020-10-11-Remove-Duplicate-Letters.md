@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 11 - Remove Duplicate Letters"
 date:   2020-10-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Stack, Greedy, Amazon, ByteDance]
+categories: LeetCode
+tags: [Medium, String, Stack, Greedy, Monotonic Stack, Amazon, ByteDance, C++]
 ---
 Given a string <font color="red">s</font>, remove duplicate letters so that every letter appears once and only once. You must make sure your result is **the smallest in lexicographical order** among all possible results.  
 

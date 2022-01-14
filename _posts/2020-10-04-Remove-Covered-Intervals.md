@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 4 - Remove Covered Intervals"
 date:   2020-10-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Two Pointers, Goldman Sachs, Microsoft]
+categories: LeetCode
+tags: [Medium, Array, Sorting, Goldman Sachs, Microsoft, C++]
 ---
 Given a list of <font color="red">intervals</font>, remove all intervals that are covered by another interval in the list.  
 

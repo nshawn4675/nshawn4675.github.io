@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 22 - Minimum Depth of Binary Tree"
 date:   2020-10-22 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Tree, Depth-first Search, Breadth-first Search, Facebook, Apple]
+categories: LeetCode
+tags: [Easy, Tree, Depth-first Search, Breadth-first Search, Binary Tree, Facebook, Apple, C++]
 ---
 Given a binary tree, find its minimum depth.  
 

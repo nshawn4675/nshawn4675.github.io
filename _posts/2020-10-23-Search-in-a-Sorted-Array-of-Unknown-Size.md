@@ -2,8 +2,8 @@
 layout: post
 title:  "702. Search in a Sorted Array of Unknown Size"
 date:   2020-10-23 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Binary Search, Microsoft]
+categories: LeetCode
+tags: [Medium, Binary Search, Microsoft, C++]
 ---
 Given an integer array sorted in ascending order, write a function to search <font color="red">target</font> in <font color="red">nums</font>.  If <font color="red">target</font> exists, then return its index, otherwise return <font color="red">-1</font>. **However, the array size is unknown to you**. You may only access the array using an <font color="red">ArrayReader</font> interface, where <font color="red">ArrayReader.get(k)</font> returns the element of the array at index <font color="red">k</font> (0-indexed).
 

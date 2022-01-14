@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 21 - Asteroid Collision"
 date:   2020-10-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Stack, Amazon, Lyft, ByteDance, Google]
+categories: LeetCode
+tags: [Medium, Array, Stack, Amazon, Lyft, ByteDance, Google, C++]
 ---
 We are given an array <font color="red">asteroids</font> of integers representing asteroids in a row.  
 

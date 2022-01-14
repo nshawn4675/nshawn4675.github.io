@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 16 - Search a 2D Matrix"
 date:   2020-10-16 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Binary Search, Amazon, Microsoft, Facebook, Bloomberg, Adobe]
+categories: LeetCode
+tags: [Medium, Array, Binary Search, Matrix, Amazon, Microsoft, Facebook, Bloomberg, Adobe, C++]
 ---
 Write an efficient algorithm that searches for a value in an <font color="red">m x n</font> matrix. This matrix has the following properties:  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 8 - Binary Search"
 date:   2020-10-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Binary Search, Amazon, Paypal]
+categories: LeetCode
+tags: [Easy, Array, Binary Search, Amazon, Paypal, C++]
 ---
 Given a **sorted** (in ascending order) integer array <font color="red">nums</font> of <font color="red">n</font> elements and a <font color="red">target</font> value, write a function to search <font color="red">target</font> in <font color="red">nums</font>. If <font color="red">target</font> exists, then return its index, otherwise return <font color="red">-1</font>.  
 

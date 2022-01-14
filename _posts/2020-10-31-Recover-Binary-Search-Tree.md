@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 31 - Recover Binary Search Tree"
 date:   2020-10-31 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Tree, Depth-first Search, Amazon, Oracle, Microsoft, Uber, Google]
+categories: LeetCode
+tags: [Hard, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Amazon, Oracle, Microsoft, Uber, Google, C++]
 ---
 You are given the <font color="red">root</font> of a binary search tree (BST), where exactly two nodes of the tree were swapped by mistake. *Recover the tree without changing its structure*.  
 

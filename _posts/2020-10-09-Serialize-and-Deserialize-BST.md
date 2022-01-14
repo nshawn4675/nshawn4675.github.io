@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 9 - Serialize and Deserialize BST"
 date:   2020-10-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Amazon, Facebook, ByteDance]
+categories: LeetCode
+tags: [Medium, String, Tree, Depth-First-Search, Breadth-First-Search, Design, Binary Search Tree, Binary Tree, Amazon, Facebook, ByteDance, C++]
 ---
 Serialization is converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.  
 

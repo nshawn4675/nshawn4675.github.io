@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 24 - Bag of Tokens"
 date:   2020-10-24 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Greedy, Google]
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, Greedy, Sorting, Google, C++]
 ---
 You have an initial **power** of <font color="red">P</font>, an initial **score** of <font color="red">0</font>, and a bag of <font color="red">tokens</font> where <font color="red">tokens[i]</font> is the value of the <font color="red">i-th</font> token (0-indexed).  
 

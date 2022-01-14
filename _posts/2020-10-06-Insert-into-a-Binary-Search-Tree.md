@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 6 - Insert into a Binary Search Tree"
 date:   2020-10-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Amazon, Microsoft]
+categories: LeetCode
+tags: [Medium, Tree, Binary Search Tree, Binary Tree, Amazon, Microsoft, C++]
 ---
 You are given the <font color="red">root</font> node of a binary search tree (BST) and a <font color="red">value</font> to insert into the tree. Return *the root node of the BST after the insertion*. It is **guaranteed** that the new value does not exist in the original BST.  
 

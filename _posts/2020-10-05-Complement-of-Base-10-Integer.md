@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 5 - Complement of Base 10 Integer"
 date:   2020-10-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Math, Cloudera]
+categories: LeetCode
+tags: [Easy, Bit Manipulation, Cloudera, C++]
 ---
 Every non-negative integer <font color="red">N</font> has a binary representation.  For example, <font color="red">5</font> can be represented as <font color="red">"101"</font> in binary, <font color="red">11</font> as <font color="red">"1011"</font> in binary, and so on.  Note that except for <font color="red">N = 0</font>, there are no leading zeroes in any binary representation.  
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 28 - Summary Ranges"
 date:   2020-10-28 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Capital One]
+categories: LeetCode
+tags: [Easy, Array, Capital One, C++]
 ---
 You are given a **sorted unique** integer array <font color="red">nums</font>.  
 

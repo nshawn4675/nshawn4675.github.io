@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 20 - Clone Graph"
 date:   2020-10-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Depth-first Search, Breadth=first Search, Graph, Facebook, Google, Amazon, Microsoft, Qualtrics, Apple, DiDi, Docusign]
+categories: LeetCode
+tags: [Medium, Hash Table, Depth-First Search, Breadth-First Search, Graph, Facebook, Google, Amazon, Microsoft, Qualtrics, Apple, DiDi, Docusign, C++]
 ---
 Given a reference of a node in a [connected](https://en.wikipedia.org/wiki/Connectivity_(graph_theory)#Connected_graph) undirected graph.  
 

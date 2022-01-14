@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 1 - Number of Recent Calls"
 date:   2020-10-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Queue, Yandex]
+categories: LeetCode
+tags: [Easy, Design, Queue, Data Stream, Yandex, C++]
 ---
 You have a <font color="red">RecentCounter</font> class which counts the number of recent requests within a certain time frame.  
 

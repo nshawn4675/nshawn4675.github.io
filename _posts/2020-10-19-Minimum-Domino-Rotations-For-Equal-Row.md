@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 19 - Minimum Domino Rotations For Equal Row"
 date:   2020-10-19 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Greedy, Google]
+categories: LeetCode
+tags: [Medium, Array, Greedy, Google, C++]
 ---
 In a row of dominoes, <font color="red">A[i]</font> and <font color="red">B[i]</font> represent the top and bottom halves of the <font color="red">i-th</font> domino.  (A domino is a tile with two numbers from 1 to 6 - one on each half of the tile.)  
 

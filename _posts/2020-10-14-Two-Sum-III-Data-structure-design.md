@@ -2,8 +2,8 @@
 layout: post
 title:  "170. Two Sum III - Data structure design"
 date:   2020-10-14 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, LinkedIn]
+categories: LeetCode
+tags: [Easy, Hash Table, LinkedIn, C++]
 ---
 Design a data structure that accepts a stream of integers and checks if it has a pair of integers that sum up to a particular value.  
 

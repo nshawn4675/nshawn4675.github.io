@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 14 - House Robber II"
 date:   2020-10-14 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Dynamic Programming, Amazon, eBay]
+categories: LeetCode
+tags: [Medium, Array, Dynamic Programming, Amazon, eBay, C++]
 ---
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed. All houses at this place are **arranged in a circle**. That means the first house is the neighbor of the last one. Meanwhile, adjacent houses have a security system connected, and **it will automatically contact the police if two adjacent houses were broken into on the same night**.  
 

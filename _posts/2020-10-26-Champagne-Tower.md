@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode October Challange] Day 26 - Champagne Tower"
 date:   2020-10-26 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Google]
+categories: LeetCode
+tags: [Medium, Dynamic Programming, Google, C++]
 ---
 We stack glasses in a pyramid, where the **first** row has <font color="red">1</font> glass, the **second** row has <font color="red">2</font> glasses, and so on until the 100-th row.  Each glass holds one cup of champagne.  
 
