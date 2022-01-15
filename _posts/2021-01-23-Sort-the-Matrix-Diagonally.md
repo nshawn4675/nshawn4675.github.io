@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 23 - Sort the Matrix Diagonally"
-date:   2021-01-23 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Sort, Facebook, Databricks, Google, Robinhood, ServiceNow]
+title: "[LeetCode January Challange] Day 23 - Sort the Matrix Diagonally"
+date: 2021-01-23 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Sorting, Matrix, Facebook, Databricks, Google, Robinhood, ServiceNow, C++]
 ---
 A **matrix diagonal** is a diagonal line of cells starting from some cell in either the topmost row or leftmost column and going in the bottom-right direction until reaching the matrix's end. For example, the **matrix diagonal** starting from <font color="red">mat[2][0]</font>, where <font color="red">mat</font> is a <font color="red">6 x 3</font> matrix, includes cells <font color="red">mat[2][0]</font>, <font color="red">mat[3][1]</font>, and <font color="red">mat[4][2]</font>.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "750. Number Of Corner Rectangles"
-date:   2021-01-31 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Dynamic Programming, Facebook]
+title: "750. Number Of Corner Rectangles"
+date: 2021-01-31 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Dynamic Programming, Facebook, C++]
 ---
 Given a grid where each entry is only 0 or 1, find the number of corner rectangles.
 

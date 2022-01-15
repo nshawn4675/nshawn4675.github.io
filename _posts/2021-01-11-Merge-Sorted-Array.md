@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 11 - Merge Sorted Array"
-date:   2021-01-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Facebook, Microsoft, Amazon, Apple, IBM, Bloomberg, Oracle, Goldman Sachs]
+title: "[LeetCode January Challange] Day 11 - Merge Sorted Array"
+date: 2021-01-11 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Two Pointers, Sorting, Facebook, Microsoft, Amazon, Apple, IBM, Bloomberg, Oracle, Goldman Sachs, C++]
 ---
 Given two sorted integer arrays <font color="red">nums1</font> and <font color="red">nums2</font>, merge <font color="red">nums2</font> into <font color="red">nums1</font> as one sorted array.
 

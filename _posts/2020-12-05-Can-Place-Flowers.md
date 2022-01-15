@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 5 - Can Place Flowers"
 date: 2020-12-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Greedy, Facebook, LinkedIn]
+categories: LeetCode
+tags: [Easy, Array, Greedy, Facebook, LinkedIn, C++]
 ---
 
 You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in **adjacent** plots.

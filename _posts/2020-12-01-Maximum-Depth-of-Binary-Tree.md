@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode December Challange] Day 1 - Maximum Depth of Binary Tree"
 date:   2020-12-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Tree, Depth-first Search, Recursion, Amazon, Facebook, Adobe, Microsoft]
+categories: LeetCode
+tags: [Easy, Tree, Depth-first Search, Breadth-First Search, Binary Tree, Amazon, Facebook, Adobe, Microsoft, C++]
 ---
 Given the <font color="red">root</font> of a binary tree, return *its maximum depth*.  
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 8 - Check If Two String Arrays are Equivalent"
-date:   2021-01-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String, Facebook]
+title: "[LeetCode January Challange] Day 8 - Check If Two String Arrays are Equivalent"
+date: 2021-01-08 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, String, Facebook, C++]
 ---
 Given two string arrays <font color="red">word1</font> and <font color="red">word2</font>, return <font color="red">true</font> *if the two arrays **represent** the same string, and* <font color="red">false</font> *otherwise*.
 

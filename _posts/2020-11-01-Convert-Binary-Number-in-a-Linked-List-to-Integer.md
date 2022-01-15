@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode November Challange] Day 1 - Convert Binary Number in a Linked List to Integer"
 date:   2020-11-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Linked List, Bit Manipulation, Mathworks, Cisco, Citrix]
+categories: LeetCode
+tags: [Easy, Linked List, Math, Mathworks, Cisco, Citrix, C++]
 ---
 Given <font color="red">head</font> which is a reference node to a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.  
 

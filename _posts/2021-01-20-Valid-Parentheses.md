@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 20 - Valid Parentheses"
-date:   2021-01-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Dynamic Programming, Amazon, Microsoft, Goldman Sachs, Google, Facebook, Bloomberg, Adobe, Apple, eBay, Oracle, Yandex, tcs]
+title: "[LeetCode January Challange] Day 20 - Valid Parentheses"
+date: 2021-01-20 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Stack, Amazon, Microsoft, Goldman Sachs, Google, Facebook, Bloomberg, Adobe, Apple, eBay, Oracle, Yandex, tcs, C++]
 ---
 Given a string <font color="red">s</font> containing just the characters <font color="red">'('</font>, <font color="red">')'</font>, <font color="red">'{'</font>, <font color="red">'}'</font>, <font color="red">'['</font> and <font color="red">']'</font>, determine if the input string is valid.
 

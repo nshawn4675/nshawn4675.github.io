@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 22 - Determine if Two Strings Are Close"
-date:   2021-01-22 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Greedy, Postmates]
+title: "[LeetCode January Challange] Day 22 - Determine if Two Strings Are Close"
+date: 2021-01-22 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Hash Table, String, Sorting, Postmates, C++]
 ---
 Two strings are considered **close** if you can attain one from the other using the following operations:
 

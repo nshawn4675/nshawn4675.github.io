@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 4 - Merge Two Sorted Lists"
-date:   2021-01-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Linked List, Recursion, Amazon, Adobe, Capital One, Google, Facebook, Bloomberg, Oracle, Apple, Microsoft, IBM, Uber]
+title: "[LeetCode January Challange] Day 4 - Merge Two Sorted Lists"
+date: 2021-01-04 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Linked List, Recursion, Amazon, Adobe, Capital One, Google, Facebook, Bloomberg, Oracle, Apple, Microsoft, IBM, Uber, C++]
 ---
 Merge two sorted linked lists and return it as a **sorted** list. The list should be made by splicing together the nodes of the first two lists.
 

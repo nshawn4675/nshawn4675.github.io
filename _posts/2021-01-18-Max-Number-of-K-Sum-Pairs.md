@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 18 - Max Number of K-Sum Pairs"
-date:   2021-01-18 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Hash Table, DE Shaw]
+title: "[LeetCode January Challange] Day 18 - Max Number of K-Sum Pairs"
+date: 2021-01-18 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Two Pointers, Sorting, DE Shaw, C++]
 ---
 You are given an integer array <font color="red">nums</font> and an integer <font color="red">k</font>.  
 

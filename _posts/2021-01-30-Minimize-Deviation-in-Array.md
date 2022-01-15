@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 30 - Minimize Deviation in Array"
-date:   2021-01-30 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Heap, Ordered Map, Samsung]
+title: "[LeetCode January Challange] Day 30 - Minimize Deviation in Array"
+date: 2021-01-30 00:00:00 +0800
+categories: LeetCode
+tags: [LeetCode, Hard, Array, Greedy, Heap (Priority Queue), Ordered Set, Samsung, C++]
 ---
 You are given an array <font color="red">nums</font> of n positive integers.
 

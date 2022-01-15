@@ -2,19 +2,9 @@
 layout: post
 title: "[LeetCode December Challange] Day 6 - Populating Next Right Pointers in Each Node II"
 date: 2020-12-06 00:00:00 +0800
-categories: jekyll update
+categories: LeetCode
 tags:
-  [
-    LeetCode,
-    Medium,
-    Tree,
-    Depth-first Search,
-    Bloomberg,
-    Amazon,
-    Microsoft,
-    Facebook,
-    Google,
-  ]
+  [Medium, Tree, Depth-First Search, Breath-First Search, Binary Tree, Bloomberg, Amazon, Facebook, Google, C++]
 ---
 
 Given a binary tree

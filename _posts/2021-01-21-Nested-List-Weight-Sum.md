@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Nested List Weight Sum"
-date:   2021-01-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Depth-first Search, Breadth-first Search, Facebook, Amazon, LinkedIn]
+title: "Nested List Weight Sum"
+date: 2021-01-21 00:00:00 +0800
+categories: LeetCode
+tags: [LeetCode, Easy, Depth-First Search, Breadth-First Search, Facebook, Amazon, LinkedIn, C++]
 ---
 You are given a nested list of integers <font color="red">nestedList</font>. Each element is either an integer or a list whose elements may also be integers or other lists.
 

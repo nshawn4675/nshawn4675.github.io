@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 31 - Next Permutation"
-date:   2021-01-31 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Facebook, Google, Amazon, Bloomberg, Microsoft, Adobe, ByteDance, Uber, Apple, Flipkart, Salesforce, FactSet]
+title: "[LeetCode January Challange] Day 31 - Next Permutation"
+date: 2021-01-31 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, Facebook, Google, Amazon, Bloomberg, Microsoft, Adobe, ByteDance, Uber, Apple, Flipkart, Salesforce, FactSet, C++]
 ---
 Implement **next permutation**, which rearranges numbers into the lexicographically next greater permutation of numbers.
 

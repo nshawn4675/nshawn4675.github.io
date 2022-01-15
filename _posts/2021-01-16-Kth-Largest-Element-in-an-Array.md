@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 16 - Kth Largest Element in an Array"
-date:   2021-01-16 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Divide and Conquer, Heap, Facebook, Amazon, ByteDance, Walmart Labs, Apple, Microsoft, Salesforce, Google, LinkedIn, Adobe, Oracle, Expedia, Spotify, Zillow]
+title: "[LeetCode January Challange] Day 16 - Kth Largest Element in an Array"
+date: 2021-01-16 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect, Facebook, Amazon, ByteDance, Walmart Labs, Apple, Microsoft, Salesforce, Google, LinkedIn, Adobe, Oracle, Expedia, Spotify, Zillow, C++]
 ---
 Find the **k**th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode December Challange] Day 10 - Valid Mountain Array"
-date:   2020-12-10 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Google]
+title: "[LeetCode December Challange] Day 10 - Valid Mountain Array"
+date: 2020-12-10 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Google, C++]
 ---
 Given an array of integers <font color="red">arr</font>, return *<font color="red">true</font> if and only if it is a valid mountain array*.
 

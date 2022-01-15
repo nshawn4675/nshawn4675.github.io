@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 12 - Add Two Numbers"
-date:   2021-01-12 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Math, Recursion, Amazon, Bloomberg, Microsoft, Adobe, Apple, Google, Facebook, Uber, Yahoo, Coupang, VMware, Walmart Labs, Paypal, Docusign]
+title: "[LeetCode January Challange] Day 12 - Add Two Numbers"
+date: 2021-01-12 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Linked List, Math, Recursion, Amazon, Bloomberg, Microsoft, Adobe, Apple, Google, Facebook, Uber, Yahoo, Coupang, VMware, Walmart Labs, Paypal, Docusign, C++]
 ---
 You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 

@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 13 - Burst Balloons"
 date: 2020-12-13 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Divide and Conquer, Dynamic Programming]
+categories: LeetCode
+tags: [Hard, Array, Dynamic Programming, C++]
 ---
 
 Given <font color="red">n</font> balloons, indexed from <font color="red">0</font> to <font color="red">n-1</font>. Each balloon is painted with a number on it represented by array <font color="red">nums</font>. You are asked to burst all the balloons. If the you burst balloon <font color="red">i</font> you will get <font color="red">nums[left] * nums[i] * nums[right]</font> coins. Here <font color="red">left</font> and <font color="red">right</font> are adjacent indices of <font color="red">i</font>. After the burst, the <font color="red">left</font> and <font color="red">right</font> then becomes adjacent.

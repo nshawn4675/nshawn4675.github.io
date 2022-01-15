@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 24 - Merge k Sorted Lists"
-date:   2021-01-24 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Linked List, Divide and Conquer, Heap, Amazon, Facebook, Bloomberg, Databricks, Microsoft, Oracle, Apple, ByteDance, Google, Uber, Adobe, Twitter, Wish, Palantir Technologies, Tesla]
+title: "[LeetCode January Challange] Day 24 - Merge k Sorted Lists"
+date: 2021-01-24 00:00:00 +0800
+categories: LeetCode
+tags: [Hard, Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Amazon, Facebook, Bloomberg, Databricks, Microsoft, Oracle, Apple, ByteDance, Google, Uber, Adobe, Twitter, Wish, Palantir Technologies, Tesla, C++]
 ---
 You are given an array of <font color="red">k</font> linked-lists <font color="red">lists</font>, each linked-list is sorted in ascending order.
 

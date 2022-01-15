@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 27 - Concatenation of Consecutive Binary Numbers"
-date:   2021-01-27 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Amazon]
+title: "[LeetCode January Challange] Day 27 - Concatenation of Consecutive Binary Numbers"
+date:2021-01-27 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Math, Bit Manipulation, Simulation, Amazon, C++]
 ---
 Given an integer <font color="red">n, return *the **decimal value** of the binary string formed by concatenating the binary representations of <font color="red">1</font> to <font color="red">n</font> in order, **modulo** 10^9 + 7*.
 

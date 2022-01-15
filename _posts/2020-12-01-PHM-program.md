@@ -2,8 +2,8 @@
 layout: post
 title:  "Cooperative project - PHM program"
 date:   2020-12-01 00:00:00 +0800
-categories: jekyll update
-tags: [project]
+categories: Project
+tags: [Python, AI, PHM]
 ---
 ![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/PHM_program_01.png?raw=true)
 ![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/PHM_program_02.png?raw=true)

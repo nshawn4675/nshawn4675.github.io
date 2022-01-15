@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 14 - Minimum Operations to Reduce X to Zero"
-date:   2021-01-14 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Two Pointers, Binary Search, Greedy, Sliding Window, Google]
+title: "[LeetCode January Challange] Day 14 - Minimum Operations to Reduce X to Zero"
+date: 2021-01-14 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Binary Search, Sliding Window, Prefix Sum, Google, C++]
 ---
 You are given an integer array <font color="red">nums</font> and an integer <font color="red">x</font>. In one operation, you can either remove the leftmost or the rightmost element from the array <font color="red">nums</font> and subtract its value from <font color="red">x</font>. Note that this **modifies** the array for future operations.
 

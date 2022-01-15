@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 2 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
-date:   2021-01-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Depth-first Search, Breadth-first Search, Recursion, Facebook]
+title: "[LeetCode January Challange] Day 2 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
+date: 2021-01-02 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Facebook, C++]
 ---
 Given two binary trees <font color="red">original</font> and <font color="red">cloned</font> and given a reference to a node <font color="red">target</font> in the original tree.
 

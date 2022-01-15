@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 7 - Longest Substring Without Repeating Characters"
-date:   2021-01-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Hash Table, Two Pointers, String, Sliding Window, Amazon, Bloomberg, Microsoft, Facebook, Apple, Google, Adobe, Goldman Sachs, ByteDance, Oracle, Alation, Yahoo, Uber, VMWare, Morgan Stanley, eBay, Expedia, SAP, Splunk, Spotify]
+title: "[LeetCode January Challange] Day 7 - Longest Substring Without Repeating Characters"
+date: 2021-01-07 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Hash Table, String, Sliding Window, Amazon, Bloomberg, Microsoft, Facebook, Apple, Google, Adobe, Goldman Sachs, ByteDance, Oracle, Alation, Yahoo, Uber, VMWare, Morgan Stanley, eBay, Expedia, SAP, Splunk, Spotify, C++]
 ---
 Given a string <font color="red">s</font>, find the length of the **longest substring** without repeating characters.
 

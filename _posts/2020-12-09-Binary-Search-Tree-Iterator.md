@@ -2,21 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 9 - Binary Search Tree Iterator"
 date: 2020-12-09 00:00:00 +0800
-categories: jekyll update
-tags:
-  [
-    LeetCode,
-    Medium,
-    Stack,
-    Tree,
-    Design,
-    Facebook,
-    Amazon,
-    Bloomberg,
-    Microsoft,
-    Google,
-    ByteDance,
-  ]
+categories: LeetCode
+tags: [Medium, Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator, Facebook,  Amazon, Bloomberg, Microsoft, Google, ByteDance, C++]
 ---
 
 Implement the <font color="red">BSTIterator</font> class that represents an iterator over the [in-order traversal](<https://en.wikipedia.org/wiki/Tree_traversal#In-order_(LNR)>) of a binary search tree (BST)：

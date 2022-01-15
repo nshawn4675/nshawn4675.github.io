@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 29 - Vertical Order Traversal of a Binary Tree"
-date:   2021-01-29 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Hash Table, Tree, Depth-first Search, Breadth-first Search, Facebook, Bloomberg, Amazon, Apple, ByteDance, Microsoft]
+title: "[LeetCode January Challange] Day 29 - Vertical Order Traversal of a Binary Tree"
+date: 2021-01-29 00:00:00 +0800
+categories: LeetCode
+tags: [LeetCode, Hard, Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Facebook, Bloomberg, Amazon, Apple, ByteDance, Microsoft, C++]
 ---
 Given the <font color="red">root</font> of a binary tree, calculate the **vertical order traversal** of the binary tree.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 9 - Word Ladder"
-date:   2021-01-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Breadth-first Search, Amazon Lyft, Faceboook, Google, Qualtrics, Microsoft, Bloomberg, Zillow, Oracle, Uber, Yahoo, Apple, Citadel]
+title: "[LeetCode January Challange] Day 9 - Word Ladder"
+date: 2021-01-09 00:00:00 +0800
+categories: LeetCode
+tags: [Hard, Hash Table, String, Breadth-First Search, Amazon Lyft, Faceboook, Google, Qualtrics, Microsoft, Bloomberg, Zillow, Oracle, Uber, Yahoo, Apple, Citadel, C++]
 ---
 Given two words <font color="red">beginWord</font> and <font color="red">endWord</font>, and a dictionary <font color="red">wordList</font>, return *the length of the shortest transformation sequence from <font color="red">beginWord</font> to <font color="red">endWord</font>, such that:*
 

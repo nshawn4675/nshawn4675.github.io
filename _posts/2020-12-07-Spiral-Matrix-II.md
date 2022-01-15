@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode December Challange] Day 7 - Spiral Matrix II"
-date:   2020-12-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Microsoft]
+title: "[LeetCode December Challange] Day 7 - Spiral Matrix II"
+date: 2020-12-07 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Simulation, Microsoft, C++]
 ---
 Given a positive integer <font color="red">n</font>, generate an <font color="red">n x n matrix</font> filled with elements from <font color="red">1</font> to <font color="red">n^2</font> in spiral order.
 

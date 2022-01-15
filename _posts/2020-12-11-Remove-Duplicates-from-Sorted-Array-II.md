@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode December Challange] Day 11 - Remove Duplicates from Sorted Array II"
-date:   2020-12-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Two pointers, VMware]
+title: "[LeetCode December Challange] Day 11 - Remove Duplicates from Sorted Array II"
+date: 2020-12-11 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two pointers, VMware, C++]
 ---
 Given a sorted array *nums*, remove the duplicates [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) such that duplicates appeared at most twice and return the new length.
 

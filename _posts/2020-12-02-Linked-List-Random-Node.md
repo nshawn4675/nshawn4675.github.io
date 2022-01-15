@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 2 - Linked List Random Node"
 date: 2020-12-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Reservoir Sampling, Amazon]
+categories: LeetCode
+tags: [Medium, Linked List, Math, Reservoir Sampling, Randomized, Amazon, C++]
 ---
 
 Given a singly linked list, return a random node's value from the linked list. Each node must have the **same probability** of being chosen.

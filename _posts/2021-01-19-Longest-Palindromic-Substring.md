@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 19 - Longest Palindromic Substring"
-date:   2021-01-19 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Dynamic Programming, Amazon, Microsoft, Goldman Sachs, Google, Facebook, Bloomberg, Adobe, Apple, eBay, Oracle, Yandex, tcs]
+title: "[LeetCode January Challange] Day 19 - Longest Palindromic Substring"
+date: 2021-01-19 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Dynamic Programming, Amazon, Microsoft, Goldman Sachs, Google, Facebook, Bloomberg, Adobe, Apple, eBay, Oracle, Yandex, tcs, C++]
 ---
 Given a string <font color="red">s</font>, return *the longest palindromic substring* in <font color="red">s</font>.
 

@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 8 - Pairs of Songs With Total Durations Divisible by 60"
 date: 2020-12-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Amazon, Citrix, IBM, Paypal]
+categories: LeetCode
+tags: [Medium, Array, Hash Table, Counting, Amazon, Citrix, IBM, Paypal, C++]
 ---
 
 You are given a list of songs where the i-th song has a duration of <font color="red">time[i]</font> seconds.

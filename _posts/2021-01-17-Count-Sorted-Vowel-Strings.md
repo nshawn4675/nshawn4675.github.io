@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 17 - Count Sorted Vowel Strings"
-date:   2021-01-17 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Dynamic Programming, Backtracking, Nira Finance]
+title: "[LeetCode January Challange] Day 17 - Count Sorted Vowel Strings"
+date: 2021-01-17 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Dynamic Programming, Nira Finance, C++]
 ---
 Given an integer <font color="red">n</font>, return *the number of strings of length <font color="red">n</font> that consist only of vowels (<font color="red">a, e, i, o, u</font>) and are **lexicographically sorted.***  
 

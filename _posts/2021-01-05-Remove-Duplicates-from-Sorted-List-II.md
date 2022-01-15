@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 5 - Remove Duplicates from Sorted List II"
-date:   2021-01-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Amazon]
+title: "[LeetCode January Challange] Day 5 - Remove Duplicates from Sorted List II"
+date: 2021-01-05 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Linked List, Two Pointers, Amazon, C++]
 ---
 Given the <font color="red">head</font> of a sorted linked list, *delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.* Return *the linked list **sorted** as well.*
 

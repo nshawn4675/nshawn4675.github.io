@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 13 - Boats to Save People"
-date:   2021-01-13 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Two Pointers, Greedy, Roblox]
+title: "[LeetCode January Challange] Day 13 - Boats to Save People"
+date: 2021-01-13 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, Greedy, Sorting, Roblox, C++]
 ---
 The <font color="red">i</font>-th person has weight <font color="red">people[i]</font>, and each boat can carry a maximum weight of <font color="red">limit</font>.
 

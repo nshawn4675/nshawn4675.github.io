@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 3 - Increasing Order Search Tree"
 date: 2020-12-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Tree, Depth-first Search, Recursion, Apple, Amazon]
+categories: LeetCode
+tags: [Easy, Stack, Tree, Depth-First Search, Binary Search Tree, Apple, Amazon, C++]
 ---
 
 Given the <font color="red">root</font> of a binary search tree, rearrange the tree in **in-order** so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.

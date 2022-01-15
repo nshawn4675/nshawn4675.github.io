@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 25 - Check If All 1's Are at Least Length K Places Away"
-date:   2021-01-25 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, United Health Group]
+title: "[LeetCode January Challange] Day 25 - Check If All 1's Are at Least Length K Places Away"
+date: 2021-01-25 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, United Health Group, C++]
 ---
 Given an array <font color="red">nums</font> of 0s and 1s and an integer <font color="red">k</font>, return <font color="red">True</font> if all 1's are at least <font color="red">k</font> places away from each other, otherwise return <font color="red">False</font>.
 

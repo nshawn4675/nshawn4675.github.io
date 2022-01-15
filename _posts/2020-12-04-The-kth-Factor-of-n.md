@@ -2,8 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 4 - The kth Factor of n"
 date: 2020-12-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Expedia]
+categories: LeetCode
+tags: [Medium, Math, Expedia, C++]
 ---
 
 Given two positive integers <font color="red">n</font> and <font color="red">k</font>.

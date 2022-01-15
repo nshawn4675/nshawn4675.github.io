@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Palindrome Permutation"
-date:   2021-01-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Facebook, Microsoft]
+title: "Palindrome Permutation"
+date: 2021-01-07 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Hash Table, Facebook, Microsoft, C++]
 ---
 Given a string, determine if a permutation of the string could form a palindrome.
 

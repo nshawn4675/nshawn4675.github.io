@@ -2,8 +2,8 @@
 layout: post
 title: "Shortest Word Distance"
 date: 2020-12-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Goldman Sachs]
+categories: LeetCode
+tags: [Easy, Array, Goldman Sachs, C++]
 ---
 
 Given a list of words and two words _word1_ and _word2_, return the shortest distance between these two words in the list.

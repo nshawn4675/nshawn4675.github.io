@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 1 - Check Array Formation Through Concatenation"
-date:   2021-01-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Sort, CodeSignal]
+title:"[LeetCode January Challange] Day 1 - Check Array Formation Through Concatenation"
+date: 2021-01-01 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, CodeSignal, C++]
 ---
 You are given an array of **distinct** integers <font color="red">arr</font> and an array of integer arrays <font color="red">pieces</font>, where the integers in <font color="red">pieces</font> are **distinct**. Your goal is to form <font color="red">arr</font> by concatenating the arrays in <font color="red">pieces</font> **in any order**. However, you are **not** allowed to reorder the integers in each array <font color="red">pieces[i]</font>.
 

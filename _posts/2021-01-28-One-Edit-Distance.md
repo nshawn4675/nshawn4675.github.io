@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "161. One Edit Distance"
-date:   2021-01-28 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Facebook, Amazon, Yandex]
+title: "161. One Edit Distance"
+date: 2021-01-28 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Facebook, Amazon, Yandex, C++]
 ---
 Given two strings <font color="red">s</font> and <font color="red">t</font>, return <font color="red">true</font> if they are both one edit distance apart, otherwise return <font color="red">false</font>.
 

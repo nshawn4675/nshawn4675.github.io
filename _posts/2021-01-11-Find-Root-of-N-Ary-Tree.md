@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Find Root of N-Ary Tree"
-date:   2021-01-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Google]
+title: "Find Root of N-Ary Tree"
+date: 2021-01-11 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Google, C++]
 ---
 You are given all the nodes of an [N-ary tree](https://leetcode.com/articles/introduction-to-n-ary-trees/) as an array of <font color="red">Node</font> objects, where each node has a **unique value**.
 

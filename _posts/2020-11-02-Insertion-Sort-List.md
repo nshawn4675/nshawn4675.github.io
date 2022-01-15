@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode November Challange] Day 2 - Insertion Sort List"
 date:   2020-11-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Sort, Microsoft, Bloomberg]
+categories: LeetCode
+tags: [Medium, Linked List, Sorting, Microsoft, Bloomberg, C++]
 ---
 Sort a linked list using insertion sort.  
 ![](https://github.com/nshawn4675/nshawn4675.github.io/blob/master/_pic/147_ex.gif?raw=true)

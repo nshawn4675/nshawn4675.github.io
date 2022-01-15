@@ -2,17 +2,8 @@
 layout: post
 title: "[LeetCode December Challange] Day 12 - Smallest Subtree with all the Deepest Nodes"
 date: 2020-12-12 00:00:00 +0800
-categories: jekyll update
-tags:
-  [
-    LeetCode,
-    Medium,
-    Tree,
-    Depth-first Search,
-    Breadth-first Search,
-    Recursion,
-    Facebook,
-  ]
+categories: LeetCode
+tags: [Medium, Hash Table, Tree, Depth-first Search, Breadth-first Search, Binary Tree, Facebook, C++]
 ---
 
 Given the <font color="red">root</font> of a binary tree, the depth of each node is **the shortest distance to the root**.

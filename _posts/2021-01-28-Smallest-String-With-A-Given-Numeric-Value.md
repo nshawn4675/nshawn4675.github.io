@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 28 - Smallest String With A Given Numeric Value"
-date:   2021-01-28 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Greedy, Lendingkart]
+title: "[LeetCode January Challange] Day 28 - Smallest String With A Given Numeric Value"
+date: 2021-01-28 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Greedy, Lendingkart, C++]
 ---
 The **numeric value** of a **lowercase character** is defined as its position <font color="red">(1-indexed)</font> in the alphabet, so the numeric value of <font color="red">a</font> is <font color="red">1</font>, the numeric value of <font color="red">b</font> is <font color="red">2</font>, the numeric value of <font color="red">c</font> is <font color="red">3</font>, and so on.
 

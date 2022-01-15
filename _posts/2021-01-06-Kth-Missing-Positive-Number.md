@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 6 - Kth Missing Positive Number"
-date:   2021-01-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Hash Table, Facebook, Microsoft]
+title: "[LeetCode January Challange] Day 6 - Kth Missing Positive Number"
+date: 2021-01-06 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Binary Search, Facebook, Microsoft, C++]
 ---
 Given an array <font color="red">arr</font> of positive integers sorted in a **strictly increasing order**, and an integer <font color="red">k</font>.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 21 - Find the Most Competitive Subsequence"
-date:   2021-01-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Stack, Heap, Greedy, Queue]
+title: "[LeetCode January Challange] Day 21 - Find the Most Competitive Subsequence"
+date: 2021-01-21 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Stack, Greedy, Monotonic Stack, C++]
 ---
 Given an integer array <font color="red">nums</font> and a positive integer <font color="red">k</font>, return *the most **competitive** subsequence of <font color="red">nums</font> of size <font color="red">k</font>.*
 

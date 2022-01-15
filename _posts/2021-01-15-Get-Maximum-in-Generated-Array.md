@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode January Challange] Day 15 - Get Maximum in Generated Array"
-date:   2021-01-15 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array]
+title: "[LeetCode January Challange] Day 15 - Get Maximum in Generated Array"
+date: 2021-01-15 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Dynamic Programming, Simulation, C++]
 ---
 You are given an integer <font color="red">n</font>. An array <font color="red">nums</font> of length <font color="red">n + 1</font> is generated in the following way:
 

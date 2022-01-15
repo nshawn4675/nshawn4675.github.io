@@ -2,8 +2,8 @@
 layout: post
 title:  "[LeetCode November Challange] Day 3 - Consecutive Characters"
 date:   2020-11-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String, Microsoft]
+categories: LeetCode
+tags: [Easy, String, Microsoft, C++]
 ---
 Given a string <font color="red">s</font>, the power of the string is the maximum length of a non-empty substring that contains only one unique character.  
 
