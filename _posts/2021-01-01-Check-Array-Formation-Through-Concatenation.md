@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"[LeetCode January Challange] Day 1 - Check Array Formation Through Concatenation"
+title: "[LeetCode January Challange] Day 1 - Check Array Formation Through Concatenation"
 date: 2021-01-01 00:00:00 +0800
 categories: LeetCode
 tags: [Easy, Array, Hash Table, CodeSignal, C++]

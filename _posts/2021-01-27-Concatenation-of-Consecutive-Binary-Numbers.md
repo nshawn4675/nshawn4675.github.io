@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[LeetCode January Challange] Day 27 - Concatenation of Consecutive Binary Numbers"
-date:2021-01-27 00:00:00 +0800
+date: 2021-01-27 00:00:00 +0800
 categories: LeetCode
 tags: [Medium, Math, Bit Manipulation, Simulation, Amazon, C++]
 ---

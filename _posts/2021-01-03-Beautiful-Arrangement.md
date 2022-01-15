@@ -3,8 +3,9 @@ layout: post
 title: "[LeetCode January Challange] Day 3 - Beautiful Arrangement"
 date: 2021-01-03 00:00:00 +0800
 categories: LeetCode
-tags: [Medium, Array, Dynamic Programming, Backtracking, Bit Manipulation, Bit Mask,, Mathworks, Cisco, C++]
+tags: [Medium, Array, Dynamic Programming, Backtracking, Bit Manipulation, Bit Mask, Mathworks, Cisco, C++]
 ---
+
 Suppose you have <font color="red">n</font> integers labeled <font color="red">1</font> through <font color="red">n</font>. A permutation of those <font color="red">n</font> integers <font color="red">perm</font> (**1-indexed**) is considered a **beautiful arrangement** if for every <font color="red">i</font> (<font color="red">1 <= i <= n</font>), **either** of the following is true:
 
 - **<font color="red">perm[i]</font>** is divisible by <font color="red">i</font>.
