@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 26 - Validate Stack Sequences"
-date:   2021-02-26 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Stack, Google]
+title: "[LeetCode February Challange] Day 26 - Validate Stack Sequences"
+date: 2021-02-26 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Stack, Simulation, Google, C++]
 ---
 Given two sequences <font color="red">pushed</font> and <font color="red">popped</font> **with distinct values**, return <font color="red">true</font> if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 18 - Remove Nth Node From End of List"
-date:   2021-04-18 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Two Pointers, Facebook, Amazon, Apple, Bloomberg, Microsoft]
+title: "[LeetCode April Challange] Day 18 - Remove Nth Node From End of List"
+date: 2021-04-18 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Linked List, Two Pointers, Facebook, Amazon, Apple, Bloomberg, Microsoft, C++]
 ---
 Given the <font color="red">head</font> of a linked list, remove the <font color="red">n-th</font> node from the end of the list and return its head.
 

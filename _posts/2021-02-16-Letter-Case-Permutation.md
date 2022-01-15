@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 16 - Letter Case Permutation"
-date:   2021-02-16 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Backtracking, Bit Manipulation, Microsoft, Bloomberg, Amazon, Spotify]
+title: "[LeetCode February Challange] Day 16 - Letter Case Permutation"
+date: 2021-02-16 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Backtracking, Bit Manipulation, Microsoft, Bloomberg, Amazon, Spotify, C++]
 ---
 Given a string S, we can transform every letter individually to be lowercase or uppercase to create another string.
 

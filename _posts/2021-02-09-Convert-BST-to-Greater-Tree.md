@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 9 - Convert BST to Greater Tree"
-date:   2021-02-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Depth-first Search, Binary Search Tree, Recursion, Amazon, Facebook]
+title: "[LeetCode February Challange] Day 9 - Convert BST to Greater Tree"
+date: 2021-02-09 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Amazon, Facebook, C++]
 ---
 Given the <font color="red">root</font> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 08 - Letter Combinations of a Phone Number"
-date:   2021-04-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Backtracking, Depth-first Search, Recursion, Amazon, Microsoft, Twilio, Facebook, Capital One, eBay, Google, Uber, Apple, Oracle, JPMorgan, Morgan Stanley, Tesla, Qualtrics, Samsung]
+title: "[LeetCode April Challange] Day 08 - Letter Combinations of a Phone Number"
+date: 2021-04-08 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Hash Table, String, Backtracking, Amazon, Microsoft, Twilio, Facebook, Capital One, eBay, Google, Uber, Apple, Oracle, JPMorgan, Morgan Stanley, Tesla, Qualtrics, Samsung, C++]
 ---
 Given a string containing digits from <font color="red">2-9</font> inclusive, return all possible letter combinations that the number could represent. Return the answer in **any order**.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 06 - Minimum Operations to Make Array Equal"
-date:   2021-04-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Brillio]
+title: "[LeetCode April Challange] Day 06 - Minimum Operations to Make Array Equal"
+date: 2021-04-06 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Math, Brillio, C++]
 ---
 You have an array <font color="red">arr</font> of length <font color="red">n</font> where <font color="red">arr[i] = (2 * i) + 1</font> for all valid values of <font color="red">i</font> (i.e. <font color="red">0 <= i < n</font>).
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 20 - N-ary Tree Preorder Traversal"
-date:   2021-04-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Tree]
+title: "[LeetCode April Challange] Day 20 - N-ary Tree Preorder Traversal"
+date: 2021-04-20 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Stack, Tree, Depth-First Search, C++]
 ---
 Given the <font color="red">root</font> of an n-ary tree, return *the preorder traversal of its nodes' values*.
 

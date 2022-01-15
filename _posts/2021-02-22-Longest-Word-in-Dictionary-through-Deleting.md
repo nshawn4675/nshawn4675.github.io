@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 22 - Longest Word in Dictionary through Deleting"
-date:   2021-02-22 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Two Pointers, Sort, Goldman Sachs]
+title: "[LeetCode February Challange] Day 22 - Longest Word in Dictionary through Deleting"
+date: 2021-02-22 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, String, Sorting, Goldman Sachs, C++]
 ---
 Given a string <font color="red">s</font> and a string array <font color="red">dictionary</font>, return *the longest string in the dictionary that can be formed by deleting some of the given string characters*. If there is more than one possible result, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.
 

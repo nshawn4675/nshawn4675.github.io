@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 7 - Shortest Distance to a Character"
-date:   2021-02-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Apple]
+title: "[LeetCode February Challange] Day 7 - Shortest Distance to a Character"
+date: 2021-02-07 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Two Pointers, String, Apple, C++]
 ---
 Given a string <font color="red">s</font> and a character <font color="red">c</font> that occurs in <font color="red">s</font>, return *an array of integers* <font color="red">answer</font> *where* <font color="red">answer.length == s.length</font> *and* <font color="red">answer[i]</font> *is the **distance** from index* <font color="red">i</font> *to the **closest** occurrence of character* <font color="red">c</font> *in* <font color="red">s</font>.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 02 - Set Mismatch"
-date:   2021-03-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Math, Apple, Amazon]
+title: "[LeetCode March Challange] Day 02 - Set Mismatch"
+date: 2021-03-02 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Bit Manipulation, Sorting, Apple, Amazon, C++]
 ---
 You have a set of integers <font color="red">s</font>, which originally contains all the numbers from <font color="red">1</font> to <font color="red">n</font>. Unfortunately, due to some error, one of the numbers in <font color="red">s</font> got duplicated to another number in the set, which results in **repetition of one** number and **loss of another** number.
 

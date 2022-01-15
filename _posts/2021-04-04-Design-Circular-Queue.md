@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 04 - Design Circular Queue"
-date:   2021-04-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Design, Queue, Facebook, Amazon, Microsoft, Rubrik, Oracle]
+title: "[LeetCode April Challange] Day 04 - Design Circular Queue"
+date: 2021-04-04 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Linked List, Design, Queue, Facebook, Amazon, Microsoft, Rubrik, Oracle, C++]
 ---
 Design your implementation of the circular queue. The circular queue is a linear data structure in which the operations are performed based on FIFO (First In First Out) principle and the last position is connected back to the first position to make a circle. It is also called "Ring Buffer".
 

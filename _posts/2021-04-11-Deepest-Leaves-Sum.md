@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 11 - Deepest Leaves Sum"
-date:   2021-04-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Depth-first Search, Google]
+title: "[LeetCode April Challange] Day 11 - Deepest Leaves Sum"
+date: 2021-04-11 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Google, C++]
 ---
 Given the <font color="red">root</font> of a binary tree, return *the sum of values of its deepest leaves*.
 

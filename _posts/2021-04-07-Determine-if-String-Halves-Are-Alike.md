@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 07 - Determine if String Halves Are Alike"
-date:   2021-04-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String]
+title: "[LeetCode April Challange] Day 07 - Determine if String Halves Are Alike"
+date: 2021-04-07 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, String, Counting, C++]
 ---
 You are given a string <font color="red">s</font> of even length. Split this string into two halves of equal lengths, and let <font color="red">a</font> be the first half and <font color="red">b</font> be the second half.
 

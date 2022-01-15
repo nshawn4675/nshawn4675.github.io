@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 10 - Copy List with Random Pointer"
-date:   2021-02-10 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Hash Table, Linked List, Amazon, Facebook, Bloomberg, Microsoft, Oracle, eBay, Yahoo, Qualtrics]
+title: "[LeetCode February Challange] Day 10 - Copy List with Random Pointer"
+date: 2021-02-10 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Hash Table, Linked List, Amazon, Facebook, Bloomberg, Microsoft, Oracle, eBay, Yahoo, Qualtrics, C++]
 ---
 A linked list of length <font color="red">n</font> is given such that each node contains an additional random pointer, which could point to any node in the list, or <font color="red">null</font>.
 

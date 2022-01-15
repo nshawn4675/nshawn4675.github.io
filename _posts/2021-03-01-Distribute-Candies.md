@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 01 - Distribute Candies"
-date:   2021-03-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Microsoft, LiveRamp]
+title: "[LeetCode March Challange] Day 01 - Distribute Candies"
+date: 2021-03-01 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Microsoft, LiveRamp, C++]
 ---
 Alice has <font color="red">n</font> candies, where the <font color="red">ith</font> candy is of type <font color="red">candyType[i]</font>. Alice noticed that she started to gain weight, so she visited a doctor.
 

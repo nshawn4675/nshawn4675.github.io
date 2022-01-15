@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 03 - Longest Valid Parentheses"
-date:   2021-04-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, String, Dynamic Programming, Amazon, Facebook, Apple, ByteDance]
+title: "[LeetCode April Challange] Day 03 - Longest Valid Parentheses"
+date: 2021-04-03 00:00:00 +0800
+categories: LeetCode
+tags: [Hard, String, Dynamic Programming, Stack, Amazon, Facebook, Apple, ByteDance, C++]
 ---
 Given a string containing just the characters <font color="red">'('</font> and <font color="red">')'</font>, find the length of the longest valid (well-formed) parentheses substring.
 

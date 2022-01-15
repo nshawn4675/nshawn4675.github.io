@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 23 - Search a 2D Matrix II"
-date:   2021-02-23 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Binary Search, Divide and Conquer, Amazon, Microsoft, ByteDance, Bloomberg, Facebook, Nvidia]
+title: "[LeetCode February Challange] Day 23 - Search a 2D Matrix II"
+date: 2021-02-23 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Binary Search, Divide and Conquer, Matrix, Amazon, Microsoft, ByteDance, Bloomberg, Facebook, Nvidia, C++]
 ---
 Write an efficient algorithm that searches for a <font color="red">target</font> value in an <font color="red">m x n</font> integer <font color="red">matrix</font>. The <font color="red">matrix</font> has the following properties:
 

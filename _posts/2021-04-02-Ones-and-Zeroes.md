@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 02 - Ones and Zeroes"
-date:   2021-04-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Dynamic Programming, Google]
+title: "[LeetCode April Challange] Day 02 - Ones and Zeroes"
+date: 2021-04-02 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, String, Dynamic Programming, Google, C++]
 ---
 You are given an array of binary strings <font color="red">strs</font> and two integers <font color="red">m</font> and <font color="red">n</font>.
 

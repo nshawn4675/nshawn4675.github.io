@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 28 - Maximum Frequency Stack"
-date:   2021-02-28 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Hash Table, Stack, Amazon, Microsoft, Bloomberg]
+title: "[LeetCode February Challange] Day 28 - Maximum Frequency Stack"
+date: 2021-02-28 00:00:00 +0800
+categories: LeetCode
+tags: [Hard, Hash Table, Stack, Design, Ordered Set, Amazon, Microsoft, Bloomberg, C++]
 ---
 Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.
 

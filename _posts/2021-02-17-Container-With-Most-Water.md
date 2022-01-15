@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 17 - Container With Most Water"
-date:   2021-02-17 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Two Pointers, Facebook, Amazon, Adobe, Microsoft, Google, Goldman Sachs, Yahoo, Salesforce, tcs]
+title: "[LeetCode February Challange] Day 17 - Container With Most Water"
+date: 2021-02-17 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, Greedy, Facebook, Amazon, Adobe, Microsoft, Google, Goldman Sachs, Yahoo, Salesforce, tcs, C++]
 ---
 Given <font color="red">n</font> non-negative integers <font color="red">a1, a2, ..., an</font> , where each represents a point at coordinate <font color="red">(i, ai)</font>. <font color="red">n</font> vertical lines are drawn such that the two endpoints of the line <font color="red">i</font> is at <font color="red">(i, ai)</font> and <font color="red">(i, 0)</font>. Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
 

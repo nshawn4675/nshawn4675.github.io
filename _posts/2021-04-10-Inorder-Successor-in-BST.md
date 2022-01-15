@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Inorder Successor in BST"
-date:   2021-04-10 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Amazon, Microsoft]
+title: "Inorder Successor in BST"
+date: 2021-04-10 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Amazon, Microsoft, C++]
 ---
 Given the <font color="red">root</font> of a binary search tree and a node <font color="red">p</font> in it, return *the in-order successor of that node in the BST*. If the given node has no in-order successor in the tree, return <font color="red">null</font>.
 

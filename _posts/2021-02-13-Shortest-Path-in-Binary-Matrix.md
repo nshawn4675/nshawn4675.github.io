@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 13 - Shortest Path in Binary Matrix"
-date:   2021-02-13 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Breadth-first Search, Amazon, Google, Facebook, Oracle, Snapchat, Paypal]
+title: "[LeetCode February Challange] Day 13 - Shortest Path in Binary Matrix"
+date: 2021-02-13 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Breadth-First Search, Matrix, Amazon, Google, Facebook, Oracle, Snapchat, Paypal, C++]
 ---
 In an N by N square grid, each cell is either empty (0) or blocked (1).
 

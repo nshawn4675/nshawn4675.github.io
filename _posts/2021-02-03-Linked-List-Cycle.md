@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 3 - Linked List Cycle"
-date:   2021-02-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Linked List, Two Pointers, Microsoft, Amazon, Facebook, Goldman Sachs, Apple, Google, Tesla]
+title: "[LeetCode February Challange] Day 3 - Linked List Cycle"
+date: 2021-02-03 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Hash Table, Linked List, Two Pointers, Microsoft, Amazon, Facebook, Goldman Sachs, Apple, Google, Tesla, C++]
 ---
 Given <font color="red">head</font>, the head of a linked list, determine if the linked list has a cycle in it.
 

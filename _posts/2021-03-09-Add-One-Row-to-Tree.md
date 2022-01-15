@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 09 - Add One Row to Tree"
-date:   2021-03-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Glit Groupe]
+title: "[LeetCode March Challange] Day 09 - Add One Row to Tree"
+date: 2021-03-09 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Glit Groupe, C++]
 ---
 Given the <font color="red">root</font> of a binary tree and two integers <font color="red">val</font> and <font color="red">depth</font>, add a row of nodes with value <font color="red">val</font> at the given depth <font color="red">depth</font>.
 

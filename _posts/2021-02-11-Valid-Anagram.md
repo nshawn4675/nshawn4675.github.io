@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 11 - Valid Anagram"
-date:   2021-02-11 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Sort, Bloomberg, Microsoft, Facebook, Amazon, Goldman Sachs, Apple, Oracle, Paypal, Adobe, Qualcomm]
+title: "[LeetCode February Challange] Day 11 - Valid Anagram"
+date: 2021-02-11 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Hash Table, String, Sorting, Bloomberg, Microsoft, Facebook, Amazon, Goldman Sachs, Apple, Oracle, Paypal, Adobe, Qualcomm, C++]
 ---
 Given two strings s and t , write a function to determine if t is an anagram of s.
 

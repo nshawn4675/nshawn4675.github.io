@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 09 - Verifying an Alien Dictionary"
-date:   2021-04-09 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Facebook, Walmart Labs, Amazon]
+title: "[LeetCode April Challange] Day 09 - Verifying an Alien Dictionary"
+date: 2021-04-09 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, String, Facebook, Walmart Labs, Amazon, C++]
 ---
 In an alien language, surprisingly they also use english lowercase letters, but possibly in a different <font color="red">order</font>. The <font color="red">order</font> of the alphabet is some permutation of lowercase letters.
 

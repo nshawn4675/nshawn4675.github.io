@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 10 - Longest Increasing Path in a Matrix"
-date:   2021-04-10 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Hard, Depth-first Search, Topological Sort, Memoization, Google, Facebook, Bloomberg, Amazon, ByteDance, DoorDash]
+title: "[LeetCode April Challange] Day 10 - Longest Increasing Path in a Matrix"
+date: 2021-04-10 00:00:00 +0800
+categories: LeetCode
+tags: [Hard, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Google, Facebook, Bloomberg, Amazon, ByteDance, DoorDash, C++]
 ---
 Given an <font color="red">m x n</fotn> integers <font color="red">matrix</font>, return *the length of the longest increasing path in* <font color="red">matrix</font>.
 

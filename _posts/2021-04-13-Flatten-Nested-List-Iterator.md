@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 13 - Flatten Nested List Iterator"
-date:   2021-04-13 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Stack, Design, Facebook, Apple, Amazon, Airbnb, LinkedIn, Bloomberg, Oracle]
+title: "[LeetCode April Challange] Day 13 - Flatten Nested List Iterator"
+date: 2021-04-13 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Stack, Tree, Depth-First Search, Design, Queue, Iterator, Facebook, Apple, Amazon, Airbnb, LinkedIn, Bloomberg, Oracle, C++]
 ---
 You are given a nested list of integers <font color="red">nestedList</font>. Each element is either an integer or a list whose elements may also be integers or other lists. Implement an iterator to flatten it.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 4 - Longest Harmonious Subsequence"
-date:   2021-02-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Apple, LiveRamp]
+title: "[LeetCode February Challange] Day 4 - Longest Harmonious Subsequence"
+date: 2021-02-04 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Sorting, Apple, LiveRamp, C++]
 ---
 We define a harmonious array as an array where the difference between its maximum value and its minimum value is **exactly** <font color="red">1</font>.
 

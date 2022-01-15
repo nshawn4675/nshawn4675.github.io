@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 1 - Number of 1 Bits"
-date:   2021-02-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Facebook, Google, Amazon, Bloomberg, Microsoft, Adobe, ByteDance, Uber, Apple, Flipkart, Salesforce, FactSet]
+title: "[LeetCode February Challange] Day 1 - Number of 1 Bits"
+date: 2021-02-01 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Bit Manipulation, Facebook, Google, Amazon, Bloomberg, Microsoft, Adobe, ByteDance, Uber, Apple, Flipkart, Salesforce, FactSet, C++]
 ---
 Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the [Hamming weight](http://en.wikipedia.org/wiki/Hamming_weight)).
 

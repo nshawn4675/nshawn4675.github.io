@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 07 - Design HashMap"
-date:   2021-03-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Hash Table, Design, Goldman Sachs, Apple, Amazon, Oracle, Twitter, LinkedIn, Google, eBay, Microsoft, ServiceNow, VMware, ByteDance]
+title: "[LeetCode March Challange] Day 07 - Design HashMap"
+date: 2021-03-07 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Linked List, Design, Hash Function, Goldman Sachs, Apple, Amazon, Oracle, Twitter, LinkedIn, Google, eBay, Microsoft, ServiceNow, VMware, ByteDance, C++]
 ---
 Design a HashMap without using any built-in hash table libraries.
 

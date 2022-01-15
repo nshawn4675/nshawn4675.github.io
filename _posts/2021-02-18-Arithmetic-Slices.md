@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 18 - Arithmetic Slices"
-date:   2021-02-18 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Dynamic Programming, Amazon]
+title: "[LeetCode February Challange] Day 18 - Arithmetic Slices"
+date: 2021-02-18 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Dynamic Programming, Amazon, C++]
 ---
 A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.
 

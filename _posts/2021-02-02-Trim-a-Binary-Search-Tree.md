@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 2 - Trim a Binary Search Tree"
-date:   2021-02-02 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Recursion, Samsung]
+title: "[LeetCode February Challange] Day 2 - Trim a Binary Search Tree"
+date: 2021-02-02 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Samsung, C++]
 ---
 Given the <font color="red">root</font> of a binary search tree and the lowest and highest boundaries as <font color="red">low</font> and <font color="red">high</font>, trim the tree so that all its elements lies in <font color="red">[low, high]</font>. Trimming the tree should **not** change the relative structure of the elements that will remain in the tree (i.e., any node's descendant should remain a descendant). It can be proven that there is a **unique answer**.
 

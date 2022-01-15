@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 6 - Binary Tree Right Side View"
-date:   2021-02-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Tree, Depth-first Search, Breadth-first Search, Recursion, Queue, Facebook, Amazon, ByteDance, eBay, Microsoft, Bloomberg, Apple, Accolite]
+title: "[LeetCode February Challange] Day 6 - Binary Tree Right Side View"
+date: 2021-02-06 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Facebook, Amazon, ByteDance, eBay, Microsoft, Bloomberg, Apple, Accolite, C++]
 ---
 Given a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 15 - Fibonacci Number"
-date:   2021-04-15 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, JPMorgan, Amazon, Google, Apple, Facebook]
+title: "[LeetCode April Challange] Day 15 - Fibonacci Number"
+date: 2021-04-15 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Math, Dynamic Programming, Recursion, Memoization, JPMorgan, Amazon, Google, Apple, Facebook, C++]
 ---
 The **Fibonacci numbers**, commonly denoted <font color="red">F(n)</font> form a sequence, called the **Fibonacci sequence**, such that each number is the sum of the two preceding ones, starting from <font color="red">0</font> and <font color="red">1</font>. That is,
 

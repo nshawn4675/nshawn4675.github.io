@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 8 - Peeking Iterator"
-date:   2021-02-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Design, Google, Apple]
+title: "[LeetCode February Challange] Day 8 - Peeking Iterator"
+date: 2021-02-08 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Design, Iterator, Google, Apple, C++]
 ---
 Design an iterator that supports the <font color="red">peek</font> operation on a list in addition to the <font color="red">hasNext</font> and the <font color="red">next</font> operations.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 04 - Intersection of Two Linked Lists"
-date:   2021-03-04 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Link List, Microsoft, Amazon, Facebook, ByteDance, LinkedIn, Paypal, Apple, Bloomberg, Intuit]
+title: "[LeetCode March Challange] Day 04 - Intersection of Two Linked Lists"
+date: 2021-03-04 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Hash Table, Link List, Two Pointers, Microsoft, Amazon, Facebook, ByteDance, LinkedIn, Paypal, Apple, Bloomberg, Intuit, C++]
 ---
 Given the heads of two singly linked-lists <font color="red">headA</font> and <font color="red">headB</font>, return *the node at which the two lists intersect*. If the two linked lists have no intersection at all, return <font color="red">null</font>.
 

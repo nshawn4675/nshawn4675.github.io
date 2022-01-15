@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 20 - Roman to Integer"
-date:   2021-02-20 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Math, String, Boblox, Amazon, Apple, Microsoft, Adobe, Qualtrics, Oracle, Google, Uber, Goldman Sachs, eBay]
+title: "[LeetCode February Challange] Day 20 - Roman to Integer"
+date: 2021-02-20 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Hash Table, Math, String, Boblox, Amazon, Apple, Microsoft, Adobe, Qualtrics, Oracle, Google, Uber, Goldman Sachs, eBay, C++]
 ---
 Roman numerals are represented by seven different symbols: <font color="red">I</font>, <font color="red">V</font>, <font color="red">X</font>, <font color="red">L</font>, <font color="red">C</font>, <font color="red">D</font> and <font color="red">M</font>.
 

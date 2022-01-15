@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 15 - The K Weakest Rows in a Matrix"
-date:   2021-02-15 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Binary Search, Amazon]
+title: "[LeetCode February Challange] Day 15 - The K Weakest Rows in a Matrix"
+date: 2021-02-15 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Binary Search, Sorting, Heap (Priority Queue), Matrix, Amazon, C++]
 ---
 You are given an <font color="red">m x n</font> binary matrix <font color="red">mat</font> of <font color="red">1</font>'s (representing soldiers) and <font color="red">0</font>'s (representing civilians). The soldiers are positioned **in front** of the civilians. That is, all the <font color="red">1</font>'s will appear to the **left** of all the <font color="red">0</font>'s in each row.
 

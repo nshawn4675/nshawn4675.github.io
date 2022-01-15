@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 08 - Remove Palindromic Subsequences"
-date:   2021-03-08 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, String, Amazon]
+title: "[LeetCode March Challange] Day 08 - Remove Palindromic Subsequences"
+date: 2021-03-08 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Two Pointers, String, Amazon, C++]
 ---
 Given a string <font color="red">s</font> consisting only of letters <font color="red">'a'</font> and <font color="red">'b'</font>. In a single step you can remove one palindromic **subsequence** from <font color="red">s</font>.
 

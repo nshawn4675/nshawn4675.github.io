@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 01 - Palindrome Linked List"
-date:   2021-04-01 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Linked List, Two Pointers, Microsoft, Facebook, Amazon, Adobe, Capital One, Google, Oracle, Bloomberg, Uber, Snapchat, payTM]
+title: "[LeetCode April Challange] Day 01 - Palindrome Linked List"
+date: 2021-04-01 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Linked List, Two Pointers, Stack, Recursion, Microsoft, Facebook, Amazon, Adobe, Capital One, Google, Oracle, Bloomberg, Uber, Snapchat, payTM, C++]
 ---
 Given the <font color="red">head</font> of a singly linked list, return <font color="red">true</font> if it is a palindrome.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 19 - Minimum Remove to Make Valid Parentheses"
-date:   2021-02-19 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Stack, Facebook, ByteDance, Bloomberg, Amazon, Goldman Sachs, LinkedIn]
+title: "[LeetCode February Challange] Day 19 - Minimum Remove to Make Valid Parentheses"
+date: 2021-02-19 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Stack, Facebook, ByteDance, Bloomberg, Amazon, Goldman Sachs, LinkedIn, C++]
 ---
 Given a string s of <font color="red">'('</font> , <font color="red">')'</font> and lowercase English characters. 
 

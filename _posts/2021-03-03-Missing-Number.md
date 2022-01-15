@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 03 - Missing Number"
-date:   2021-03-03 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Math, Bit Manipulation, Capital One, Facebook, Amazon, Apple, Oracle, Microsoft, Goldman Sachs, Cisco, Arista Networks]
+title: "[LeetCode March Challange] Day 03 - Missing Number"
+date: 2021-03-03 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Math, Bit Manipulation, Sorting, Capital One, Facebook, Amazon, Apple, Oracle, Microsoft, Goldman Sachs, Cisco, Arista Networks, C++]
 ---
 Given an array <font color="red">nums</font> containing <font color="red">n</font> distinct numbers in the range <font color="red">[0, n]</font>, return *the only number in the range that is missing from the array*.
 

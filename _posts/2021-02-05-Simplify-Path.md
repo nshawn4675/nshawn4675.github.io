@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 5 - Simplify Path"
-date:   2021-02-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Stack, Facebok, Amazon, Microsoft]
+title: "[LeetCode February Challange] Day 5 - Simplify Path"
+date: 2021-02-05 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Stack, Facebok, Amazon, Microsoft, C++]
 ---
 Given a string <font color="red">path</font>, which is an **absolute path** (starting with a slash <font color="red">'/'</font>) to a file or directory in a Unix-style file system, convert it to the simplified **canonical path**.
 

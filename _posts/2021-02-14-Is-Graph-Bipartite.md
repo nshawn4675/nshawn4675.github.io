@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 14 - Is Graph Bipartite?"
-date:   2021-02-14 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Depth-first Search, Breadth-first Search, Graph, Facebook, eBay, ByteDance]
+title: "[LeetCode February Challange] Day 14 - Is Graph Bipartite?"
+date: 2021-02-14 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Depth-First Search, Breadth-First Search, Union Find, Graph, Facebook, eBay, ByteDance, C++]
 ---
 There is an **undirected** graph with <font color="red">n</font> nodes, where each node is numbered between <font color="red">0</font> and <font color="red">n - 1</font>. You are given a 2D array <font color="red">graph</font>, where <font color="red">graph[u]</font> is an array of nodes that node <font color="red">u</font> is adjacent to. More formally, for each <font color="red">v</font> in <font color="red">graph[u]</font>, there is an undirected edge between node <font color="red">u</font> and node <font color="red">v</font>. The graph has the following properties:
 

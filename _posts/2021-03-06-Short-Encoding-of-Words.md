@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 06 - Short Encoding of Words"
-date:   2021-03-06 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium]
+title: "[LeetCode March Challange] Day 06 - Short Encoding of Words"
+date: 2021-03-06 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Hash Table, String, Trie, C++]
 ---
 A **valid encoding** of an array of <font color="red">words</font> is any reference string <font color="red">s</font> and array of indices <font color="red">indices</font> such that:
 

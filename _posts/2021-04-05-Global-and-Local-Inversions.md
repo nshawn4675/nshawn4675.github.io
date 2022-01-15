@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 05 - Global and Local Inversions"
-date:   2021-04-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Math, Bloomberg]
+title: "[LeetCode April Challange] Day 05 - Global and Local Inversions"
+date: 2021-04-05 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Math, Bloomberg, C++]
 ---
 We have some permutation <font color="red">A</font> of <font color="red">[0, 1, ..., N - 1]</font>, where <font color="red">N</font> is the length of <font color="red">A</font>.
 

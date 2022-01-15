@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 12 - Beautiful Arrangement II"
-date:   2021-04-12 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Google]
+title: "[LeetCode April Challange] Day 12 - Beautiful Arrangement II"
+date: 2021-04-12 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Math, Google, C++]
 ---
 Given two integers <font color="red">n</font> and <font color="red">k</font>, you need to construct a list which contains <font color="red">n</font> different positive integers ranging from <font color="red">1</font> to <font color="red">n</font> and obeys the following requirement:
 Suppose this list is [a1, a2, a3, ... , an], then the list [|a1 - a2|, |a2 - a3|, |a3 - a4|, ... , |an-1 - an|] has exactly <font color="red">k</font> distinct integers.

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 21 - Broken Calculator"
-date:   2021-02-21 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Greedy, Nutanix, Bloomberg]
+title: "[LeetCode February Challange] Day 21 - Broken Calculator"
+date: 2021-02-21 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Math, Greedy, Nutanix, Bloomberg, C++]
 ---
 On a broken calculator that has a number showing on its display, we can perform two operations:
 

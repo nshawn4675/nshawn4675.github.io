@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode April Challange] Day 14 - Partition List"
-date:   2021-04-14 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Linked List, Two Pointers, Microsoft, Amazon, Apple, Facebook]
+title: "[LeetCode April Challange] Day 14 - Partition List"
+date: 2021-04-14 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Linked List, Two Pointers, Microsoft, Amazon, Apple, Facebook, C++]
 ---
 Given the <font color="red">head</font> of a linked list and a value <font color="red">x</font>, partition it such that all nodes **less than** <font color="red">x</font> come before nodes **greater than or equal** to <font color="red">x</font>.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 27 - Divide Two Integers"
-date:   2021-02-27 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Math, Binary Search, Facebook, Amazon, Adobe]
+title: "[LeetCode February Challange] Day 27 - Divide Two Integers"
+date: 2021-02-27 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Math, Bit Manipulation, Facebook, Amazon, Adobe, C++]
 ---
 Given two integers <font color="red">dividend</font> and <font color="red">divisor</font>, divide two integers without using multiplication, division, and mod operator.
 

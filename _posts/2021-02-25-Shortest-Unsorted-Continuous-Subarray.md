@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 25 - Shortest Unsorted Continuous Subarray"
-date:   2021-02-25 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, Array, Amazon, Microsoft]
+title: "[LeetCode February Challange] Day 25 - Shortest Unsorted Continuous Subarray"
+date: 2021-02-25 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack, Amazon, Microsoft, C++]
 ---
 Given an integer array <font color="red">nums</font>, you need to find one **continuous subarray** that if you only sort this subarray in ascending order, then the whole array will be sorted in ascending order.
 

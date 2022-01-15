@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode March Challange] Day 05 - Average of Levels in Binary Tree"
-date:   2021-03-05 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Tree, Facebook]
+title: "[LeetCode March Challange] Day 05 - Average of Levels in Binary Tree"
+date: 2021-03-05 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Facebook, C++]
 ---
 Given the <font color="red">root</font> of a binary tree, return *the average value of the nodes on each level in the form of an array*. Answers within <font color="red">10^-5</font> of the actual answer will be accepted.
 

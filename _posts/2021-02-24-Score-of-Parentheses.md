@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 24 - Score of Parentheses"
-date:   2021-02-24 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Medium, String, Stack, Amazon, Google]
+title: "[LeetCode February Challange] Day 24 - Score of Parentheses"
+date: 2021-02-24 00:00:00 +0800
+categories: LeetCode
+tags: [Medium, String, Stack, Amazon, Google, C++]
 ---
 Given a balanced parentheses string <font color="red">S</font>, compute the score of the string based on the following rule:
 

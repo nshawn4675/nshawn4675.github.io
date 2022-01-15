@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[LeetCode February Challange] Day 12 - Number of Steps to Reduce a Number to Zero"
-date:   2021-02-12 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Bit Manipulation, Amazon, Google, Microsoft]
+title: "[LeetCode February Challange] Day 12 - Number of Steps to Reduce a Number to Zero"
+date: 2021-02-12 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Math, Bit Manipulation, Amazon, Google, Microsoft, C++]
 ---
 Given a non-negative integer <font color="red">num</font>, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
 

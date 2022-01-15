@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Largest Unique Number"
-date:   2021-04-07 00:00:00 +0800
-categories: jekyll update
-tags: [LeetCode, Easy, Array, Hash Table, Amazon]
+title: "Largest Unique Number"
+date: 2021-04-07 00:00:00 +0800
+categories: LeetCode
+tags: [Easy, Array, Hash Table, Amazon, C++]
 ---
 Given an array of integers <font color="red">A</font>, return the largest integer that only occurs once.
 
