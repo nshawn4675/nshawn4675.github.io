@@ -43,7 +43,7 @@ $ ls
 ```console
 $ sudo nano /etc/fstab
 // add the following line. (seperated by "tab", replace <username> with yours)
-win10_shared    /home/<username>/ubuntu_shared  defaults    0   0
+win10_shared    /home/<username>/ubuntu_shared  vboxsf  defaults    0   0
 
 $ sudo nano /etc/modules
 // add the following line.
