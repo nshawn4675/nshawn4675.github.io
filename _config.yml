@@ -222,4 +222,6 @@ include:
 exclude:
   - .jekyll-cache
 
-incremental: true
+#incremental: true
+
+future: true
