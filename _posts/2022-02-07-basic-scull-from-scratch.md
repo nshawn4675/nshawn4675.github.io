@@ -314,8 +314,6 @@ MODULE_LICENSE("GPL v2");
 /*
  * Macros to help debugging 
  */
-#define SCULL_DEBUG
-
 #undef DBGMSG
 #ifdef SCULL_DEBUG
 #  ifdef __KERNEL__
@@ -353,19 +351,33 @@ struct Scull {
 
 #endif /* __SCULL_H__ */
 
+
 ```
 
 ## Makefile  
 ``` make
+# Comment/uncomment the following line to disable/enable degugging
+DEBUG = y
+
+# Add your debugging flag (or not) to CFLAGS
+ifeq ($(DEBUG),y)
+	DEBFLAGS = -O -g -DSCULL_DEBUG # "-O" is needed to expand inlines
+else
+	DEBFLAGS = -O2
+endif
+
+EXTRA_CFLAGS += $(DEBFLAGS)
+
+
 # if KERNELRELEASE is defined, we've been invoked from the kernel buils system and can use its language.
 ifneq ($(KERNELRELEASE),)
 
-	obj-m := scull.o
+obj-m := scull.o
 
 else
 
-	KERNELDIR ?= /lib/modules/$(shell uname -r)/build
-	PWD := $(shell pwd)
+KERNELDIR ?= /lib/modules/$(shell uname -r)/build
+PWD := $(shell pwd)
 
 default:
 	$(MAKE) -C $(KERNELDIR) M=$(PWD) modules
@@ -374,6 +386,13 @@ endif
 
 clean:
 	rm -f *.mod.c *.o *.mod *.ko *.order *.symvers
+
+depend .depend dep:
+	$(CC) $(EXTRA_CFLAGS) -M *.c > .depend
+
+ifeq (.depend, $(wildcard .depend))
+include .depend
+endif
 
 ```
 
