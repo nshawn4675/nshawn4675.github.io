@@ -65,7 +65,9 @@ title: About
 		- 高等超大型積體電路設計 (A+)
 		- SOC測試 (A+)
 		- 超大型積體電路數位訊號處理 (A)
+
 ---
+
 ## Shawn Yang
 nshawn4675@gmail.com
 
