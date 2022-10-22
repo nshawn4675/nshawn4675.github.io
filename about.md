@@ -4,70 +4,103 @@ title: About
 ---
 ![GitHub](https://avatars1.githubusercontent.com/u/8012351?s=230&v=4)
 
-楊硯翔，1992/10/24，天蠍座，O型，台中人。<br>
-崇尚自然與環保，平時喜愛慢跑、游泳、唱歌，無明顯不良嗜好(煙癮、嗜酒，etc)
+## 個人資訊  
+- 楊硯翔
+- 軟韌體工程師  
+- nshawn4675@gmail.com  
+<!--
+## 自我介紹  
+- 豐富的實務經驗
+- 具備優秀的溝通能力
+- 對系統品質的要求
+- 善用專案管理工具
+- 自主學習
+-->
+## 技能  
+- 程式語言
+	- C/C++
+	- Python
+- 專案管理工具
+	- Redmine
+	- Phabricator
+- 證照
+	- ETS TOEIC - Listening & Reading (955)
+	- AutoCAD
+	- Microsoft MCP
+	- Microsoft Specialist (HTML5, JavaScript, CSS)
+	- 中華民國乙級數位電子技術士
+- 其他
+	- AI
+	- SAS expander
+	- PCIe switch
 
-2011/9 ~ 2015/6 國立勤益科技大學-資訊工程系：<br>
-　　大學就讀資訊工程系所，除了軟體開發用到的C語言之外，還學到了Verilog和VHDL的硬體開發語言。另外為了協助教授執行電腦視覺&影像處理的教學計畫以及國科會研究專案，利用課餘時間進修MATLAB以及LabVIEW課程。
-
-2014/10 ~ 2015/6 向上科技股份有限公司-QA/QC工程師：<br>
-　　大學期間曾到遊戲公司擔任QA/QC工程師，服務內容主要是以開發中和已上架的軟體做流程及功能方面的測試。
-
-2017/3 ~ 2018/3 軟體工程師：<br>
-　　主要工作內容是協助生產線提供其所需要的功能單元測試軟體，開發、維護及管理，自動化測試系統整合。相關技術使用：MFC、Socket、Shell script、Python、QT、TortoiseSVN。
-
-未來規劃：<br>
-．為了減少排斥感，持續接觸英文。<br>
-．為了能在資訊爆炸的時代中萃取出所需資訊，學習數據分析相關技術。<br>
-．為了更有效的編程&管理，學習抽象化的架構設計。
-
+## 學經歷  
+- 神雲科技股份有限公司 / 工程師 / 2021.10 ~ 至今
+	- 專案
+		- SAS4 expander storage
+			- 客製化SES pages和SCSI commands。
+		- Server
+			- 維運現有PCIe switch和SAS3/4 expander firmware。
+			- 處理新需求/現有問題。
+		- NVMe-oF JBOF
+			- 維運現有Enclosure Services Management(ESM)系統。
+			- 處理新需求/現有問題。
+	- 工作內容
+		- 跨部門溝通
+			- 與Vendor FAE、硬體部門協同作業，配合調整設計/處理問題。
+			- 與Diag team、產線端協同作業，幫助產品生產線順利。
+		- 固定流程自動化
+			- 將固有程序腳本化，減少人為失誤、提升工作效率。
+- 國立中興大學 / 資訊工程研究所 / 系統單晶片實驗室 / 2019.09 ~ 2021.09
+	- GPA
+		- A-, 3.93, 11/68
+	- 論文
+		- 數控銑床刀具餘命的預測方法
+	- 專案
+		- VAS chamber 預診及健康管理系統
+		- 物聯網病媒蟲害監測系統
+	- 課程
+		- 高等超大型積體電路設計 (A+)
+		- SOC測試 (A+)
+		- 超大型積體電路數位訊號處理 (A)
 ---
-<div name="title" align="center">
-	<font color="#0070c0" size="6">
-		Shawn Yang
-	</font><br/>
-	No. 9, Aly. 11, Ln. 127, Dahan St., Shengang Dist., Taichung City 429, Taiwan (R.O.C.)<br/>
-	0910758145<br/>
-	nshawn4675@gmail.com
-</div>
-<br/>
-<div name="profile">
-	<div align="center">
-		<font color="#0070c0" size="6">
-			Professional Profile
-		</font>
-	</div>
-	● Honors student of National Chin-Yi University of Technology’s BS in CSIE program.<br/>
-	● Consistently commended by professors for programming abilities, grasp of multiple technologies and attention to detail.<br/>
-	● Strong knowledge of object-oriented programming and application development tools using C, C++ and Python.<br/>
-	● Known as a self-starter, team player and multitasker--strive to consistently exceed expectations.
-</div>
-<br/>
-<div name="work_experience">
-	<div align="center">
-		<font color="#0070c0" size="6">
-			Work Experience
-		</font>
-	</div>
-	<font size="5">Software Engineer - Topview corp.</font><br/>
-	10F., No. 375, Wuquan Rd., North Dist., Taichung City 404, Taiwan (R.O.C.)<br/>
-	3 / 2017 ~ 3 / 2018<br/>
-	● Developed IP-Camera software with C/C++ on embedded Linux.<br/>
-    ● Adapted ODM customization.<br/>
-    ● Integrated Network Video Recorders (NVR).<br/>
-    ● Adjusted Image quality.<br/>
-	<font size="5">QA / QC - XIANG SHANG GAMES</font><br/>
-	No. 360, Jianxing Rd., North Dist., Taichung City 404, Taiwan (R.O.C.) <br/>
-	8 / 2014 ~ 6 / 2015<br/>
-	● Tested software function.
-</div>
-<br/>
-<div name="education">
-	<div align="center">
-		<font color="#0070c0" size="6">
-			Education
-		</font>
-	</div>
-	<font size="5">Bachelor - National Chin-Yi University of Technology</font><br/>
-	2011 / 9 ~ 2015 / 6
-</div>
+## Shawn Yang
+nshawn4675@gmail.com
+
+## Work Experience  
+- Engineer in MiTAC Corp. - Oct.2021 ~ Present
+	- SAS4 storage
+		- Customize SES pages and SCSI commands.
+	- Server
+		- Maintain PCIe switch and SAS3/4 expander firmware.
+	- NVMe-oF JBOF
+		- Maintain Enclosure Services Management (ESM) firmware.
+- Education
+	- National Chung Hsing University / Master / CSE / SoC Lab
+		- GPA
+			- A-, 3.93, 11/68
+		- Coursework
+			- VLSI design (A+)
+			- SOC testing (A+)
+			- VLSI DSP (A)
+		- Thesis
+			- CNC Milling Machine Cutter RUL Estimation Using Deep Learning
+		- Projects
+			- VAS Chamber Prognostics and Health Management
+			- IoT Monitoring System for Disease Vector Control
+- Skill and Interests
+	- Programming Languages
+		- C/C++
+		- Python
+	- AI
+		- Numpy
+		- Matplotlib
+		- Tensorflow
+		- Keras
+		- Scikit-learn
+	- Others
+		- Yocto Project
+		- OpenBMC
+		- Git
+	- Interests
+		- Penetration Test
