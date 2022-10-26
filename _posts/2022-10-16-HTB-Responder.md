@@ -2,8 +2,8 @@
 layout: post
 title: "[HTB - Starting Point] Responder"
 date: 2022-10-16 09:00:00 +0800
-categories: note
-tags: [HTB]
+categories: HTB
+tags: [HTB, Starting Point]
 ---
 
 ## Task 1  
